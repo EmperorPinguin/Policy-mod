@@ -1,0 +1,90 @@
+
+game.png
+size: 1024, 64
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Aerospace Engineering
+  rotate: false
+  xy: 4, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Capitalism
+  rotate: false
+  xy: 62, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Five-Year Plan
+  rotate: false
+  xy: 120, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Free Healthcare
+  rotate: false
+  xy: 178, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Lightning Warfare
+  rotate: false
+  xy: 236, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Military Industry
+  rotate: false
+  xy: 294, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mobilization
+  rotate: false
+  xy: 352, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/New Deal
+  rotate: false
+  xy: 410, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Personality Cult
+  rotate: false
+  xy: 468, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Proletarian Internationalism
+  rotate: false
+  xy: 526, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Resettlement
+  rotate: false
+  xy: 584, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Volunteer Army
+  rotate: false
+  xy: 642, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
