@@ -1,2 +1,2 @@
 # Policy-mod
-Piety and Rationalism no longer exclude each other, and a minor change to Honor.
+The images are taken from RekMOD, and have to be replaced in the not too distant future.
