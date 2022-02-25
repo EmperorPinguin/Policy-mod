@@ -439,7 +439,7 @@
 			},
 {
 				"name": "Lightning Warfare",
-				"uniques": ["[+15]% Strength <for [Armored] units>", "[+1] Movement <for [Armored] units>", "[+3] Movement <for [Great General] units>"],
+				"uniques": ["[+25]% Strength <for [Armored] units> <when attacking>", "[+1] Movement <for [Armored] units>", "[+3] Movement <for [Great General] units>"],
 				"requires": ["Military Industry","Fascism"],
 				"row": 3,
 				"column": 1
