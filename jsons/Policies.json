@@ -425,7 +425,7 @@
                         },
 			{
 				"name": "Fascism",
-				"uniques": ["Quantity of strategic resources produced by the empire +[100]%"],
+				"uniques": ["Quantity of strategic resources produced by the empire +[100]%", "[+3] Movement <for [Great General] units>"],
 				"requires": ["Populism","Militarism"],
 				"row": 2,
 				"column": 3
@@ -439,7 +439,7 @@
 			},
 {
 				"name": "Lightning Warfare",
-				"uniques": ["[+25]% Strength <for [Armored] units> <when attacking>", "[+1] Movement <for [Armored] units>", "[+3] Movement <for [Great General] units>"],
+				"uniques": ["[+25]% Strength <for [Armored] units> <when attacking>", "[+1] Movement <for [Armored] units>"],
 				"requires": ["Military Industry","Fascism"],
 				"row": 3,
 				"column": 1
