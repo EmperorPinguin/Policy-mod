@@ -165,7 +165,7 @@
 			},
 			{
 				"name": "Free Religion",
-				"uniques": ["[-10]% Culture cost of adopting new policies"],
+				"uniques": ["[-10]% Culture cost of adopting new Policies"],
 				"requires": ["Mandate Of Heaven", "Reformation"],
 				"row": 3,
 				"column": 4
@@ -322,7 +322,7 @@
 	{
 		"name": "Freedom",
 		"era": "Industrial era",
-		"uniques": ["[+25]% great person generation [in all cities]", "[-10]% Culture cost of adopting new policies", "Incompatible with [Autocracy]", "Incompatible with [Order]"],
+		"uniques": ["[+25]% great person generation [in all cities]", "[-10]% Culture cost of adopting new Policies", "Incompatible with [Autocracy]", "Incompatible with [Order]"],
 		"policies": [
 			{
 				"name": "Constitution",
@@ -386,7 +386,7 @@
 			},
 			{
 				"name": "Freedom Complete",
-				"uniques": ["Empire enters golden age", "[-10]% Culture cost of adopting new policies",
+				"uniques": ["Empire enters golden age", "[-10]% Culture cost of adopting new Policies",
 					"May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
 				]
 			}
@@ -395,7 +395,7 @@
 	{
 		"name": "Autocracy",
 		"era": "Industrial era",
-		"uniques": ["[-33]% maintenance costs <for [All] units>", "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately", "[-10]% Culture cost of adopting new policies",
+		"uniques": ["[-33]% maintenance costs <for [All] units>", "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately", "[-10]% Culture cost of adopting new Policies",
 			"Incompatible with [Order]", "Incompatible with [Freedom]"],
 		"policies": [
 			{
@@ -460,7 +460,7 @@
 			},
 			{
 				"name": "Autocracy Complete",
-				"uniques": ["+[25]% attack strength to all [Military] units for [50] turns", "[-10]% Culture cost of adopting new policies",
+				"uniques": ["+[25]% attack strength to all [Military] units for [50] turns", "[-10]% Culture cost of adopting new Policies",
 					"May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
 					"May buy [Great Admiral] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
 				]
@@ -470,7 +470,7 @@
 	{
     "name": "Order",
     "era": "Industrial era",
-	"uniques": ["[+1 Happiness] [in all cities]", "[-10]% Culture cost of adopting new policies", "Incompatible with [Autocracy]", "Incompatible with [Freedom]"],
+	"uniques": ["[+1 Happiness] [in all cities]", "[-10]% Culture cost of adopting new Policies", "Incompatible with [Autocracy]", "Incompatible with [Freedom]"],
     "policies": [
         {
             "name": "United Front",
@@ -534,7 +534,7 @@
         },
         {
             "name": "Order Complete",
-			"uniques": ["[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]", "[-10]% Culture cost of adopting new policies",
+			"uniques": ["[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]", "[-10]% Culture cost of adopting new Policies",
 				"May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
 			]
         }
