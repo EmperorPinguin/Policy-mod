@@ -191,7 +191,7 @@
                     "[-33]% Gold cost of upgrading <for [Military] units>",
                     "[+1 Production, +1 Happiness] from every [Barracks]",
                     "[+1 Production, +1 Happiness] from every [Armory]",
-                    "[+1 Production, +1 Happiness] from every [Military Academy]"],
+                    "[+1 Production, +1 Happiness] from every [Military Academy]"
                 ],
                 "requires": ["Military Caste"],
                 "row": 3,
