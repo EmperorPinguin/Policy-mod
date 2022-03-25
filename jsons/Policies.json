@@ -757,6 +757,15 @@
                 "column": 5
             }
             {
+                "name": "Free Healthcare",
+                "requires": ["Socialism"],
+                "uniques": [
+                    "[+3 Happiness] from every [Hospital]"
+                ],
+                "row": 2,
+                "column": 5
+            }
+            {
                 "name": "Communism",
                 "requires": ["Socialism"],
                 "uniques": [
