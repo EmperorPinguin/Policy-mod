@@ -76,7 +76,7 @@
             "Cultural": 0,
             "Diplomatic": 30,
             "Domination": 30,
-            "Scientific": 0
+            "Scientific": 30
         },
         "uniques": ["[+1 Culture] [in all cities]"],
         "policies": [
@@ -141,7 +141,7 @@
             "Neutral": 0,
             "Cultural": 0,
             "Diplomatic": 10,
-            "Domination": 10,
+            "Domination": 30,
             "Scientific": 10
         },
         "uniques": [
@@ -212,7 +212,7 @@
             "Neutral": 0,
             "Cultural": 10,
             "Diplomatic": 10,
-            "Domination": 10,
+            "Domination": 0,
             "Scientific": 0
         },
         "uniques": [
