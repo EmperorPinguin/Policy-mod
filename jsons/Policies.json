@@ -76,7 +76,7 @@
             "Cultural": 0,
             "Diplomatic": 30,
             "Domination": 30,
-            "Scientific": 30
+            "Scientific": 0
         },
         "uniques": ["[+1 Culture] [in all cities]"],
         "policies": [
@@ -140,9 +140,9 @@
         "priorities": {
             "Neutral": 0,
             "Cultural": 0,
-            "Diplomatic": 0,
-            "Domination": 30,
-            "Scientific": 0
+            "Diplomatic": 10,
+            "Domination": 10,
+            "Scientific": 10
         },
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>",
