@@ -190,7 +190,7 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+2 Happiness, +3 Culture] [in all cities with a garrison]"
+                    "[+1 Happiness, +2 Culture] [in all cities with a garrison]"
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
