@@ -352,6 +352,50 @@
             }
         ]
     },
+	{
+		"name": "Aesthetics",
+		"era": "Classical era",
+		"uniques": ["[+25]% [Culture] <while the empire is happy>"],
+		"policies": [
+			{
+				"name": "Cultural Centers",
+				"uniques": ["[+2 Culture] from every specialist [in all cities]"],
+				"row": 1,
+				"column": 2
+			},
+			{
+				"name": "Architectural Wonders",
+				"uniques": ["[+33]% [Culture] [in all cities with a world wonder]", "[+15]% Production when constructing [All] wonders [in all cities]"],
+				"row": 1,
+				"column": 4
+			},
+			{
+				"name": "Artistic Genius",
+				"uniques": ["Free [Great Artist] appears"],
+				"requires": ["Cultural Centers"],
+				"row": 2,
+				"column": 2
+			},
+			{
+				"name": "Tourism Destination",
+				"uniques": ["[+6 Gold] from every [Landmark]", "Empire enters golden age"],
+				"requires": ["Cultural Centers", "Architectural Wonders"],
+				"row": 2,
+				"column": 4
+			},
+			{
+				"name": "Cultural Exchange",
+				"uniques": ["[+50]% [Culture] from City-States", "Allied City-States provide [Culture] equal to [50]% of what they produce for themselves", "[-10]% Culture cost of adopting new Policies"],
+				"requires": ["Artistic Genius"],
+				"row": 3,
+				"column": 2
+			},
+			{
+				"name": "Aesthetics Complete",
+				"uniques": ["[+6 Happiness] from every [Landmark]"]
+			}
+		]
+	},
     {
         "name": "Commerce",
         "era": "Medieval era",
