@@ -865,7 +865,7 @@
             },
             {
                 "name": "Aerospace Engineering",
-                "requires": ["Five-Year Plan"],
+                "requires": ["Labour Unions"],
                 "uniques": [
                     "[+7 Production, +10 Science] from every [Spaceship Factory]"
                 ],
