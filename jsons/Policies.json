@@ -228,14 +228,15 @@
             "Scientific": 10
         },
         "uniques": [
-            "[+100]% Production when constructing [Faith] buildings [in all cities]"
+            "[+100]% Production when constructing [Faith] buildings [in all cities]",
+            "[+100]% Production when constructing [Faith] wonders [in all cities]"
         ],
         "policies": [
             {
                 "name": "Organized Religion",
                 "uniques": [
-                    "[+1 Faith] from every [Shrine]",
-                    "[+1 Faith] from every [Temple]"
+                    "[+1 Faith, +1 Food] from every [Shrine]",
+                    "[+1 Faith, +1 Food] from every [Temple]"
                 ],
                 "row": 1,
                 "column": 2
@@ -268,7 +269,11 @@
             },
             {
                 "name": "Free Religion",
-                "uniques": ["[-10]% Culture cost of adopting new Policies"],
+                "uniques": [
+                    "[+1 Happiness] from every [Shrine]",
+                    "[+1 Happiness] from every [Temple]",
+                    "[-10]% Culture cost of adopting new Policies"
+                ],
                 "requires": ["Mandate Of Heaven", "Reformation"],
                 "row": 3,
                 "column": 4
