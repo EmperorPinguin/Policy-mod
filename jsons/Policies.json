@@ -6,6 +6,7 @@
 //Piety|10|30|0|0|10
 //Patronage|10|0|30|0|0
 //Commerce|10|10|20|30|20
+//Exploration|10|0|10|10|20
 //Rationalism|10|20|10|20|30
 //Freedom|50|50|0|0|0
 //Autocracy|50|0|0|50|0
@@ -132,8 +133,7 @@
             {
                 "name": "Meritocracy",
                 "uniques": [
-                    "[+1 Happiness] [in all cities connected to capital]",
-                    "[-5]% Unhappiness from [Population] [in all non-occupied cities]"
+                    "[+2 Happiness] [in all cities connected to capital]"
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,
@@ -181,7 +181,8 @@
             {
                 "name": "Military Tradition",
                 "uniques": [
-                    "[+50]% XP gained from combat <for [Military] units>"
+                    "[+50]% XP gained from combat <for [Military] units>",
+                    "[Great General] is earned [50]% faster"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
@@ -190,7 +191,7 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+1 Happiness, +2 Culture] [in all cities with a garrison]"
+                    "[+2 Happiness, +3 Culture] [in all cities with a garrison]"
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
@@ -227,8 +228,7 @@
             "Scientific": 10
         },
         "uniques": [
-            "[+100]% Production when constructing [Shrine] buildings [in all cities]",
-            "[+100]% Production when constructing [Temple] buildings [in all cities]"
+            "[+100]% Production when constructing [Faith] buildings [in all cities]"
         ],
         "policies": [
             {
@@ -248,7 +248,10 @@
             },
             {
                 "name": "Theocracy",
-                "uniques": ["[+10]% [Gold] from every [Temple]"],
+                "uniques": [
+                    "[+10]% [Gold] from every [Temple]",
+                    "[+3 Gold] from every [Holy site]"
+                ],
                 "requires": ["Organized Religion"],
                 "row": 2,
                 "column": 1
@@ -273,8 +276,8 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "[Faith] cost of purchasing items in cities [-20]% ",
-                    "[+3 Gold, +3 Culture] from every [Holy site]"
+                    "[Faith] cost of purchasing items in cities [-25]% ",
+                    "[+3 Culture] from every [Holy site]"
                 ]
             }
         ]
@@ -310,7 +313,7 @@
             {
                 "name": "Scholasticism",
                 "uniques": [
-                    "Allied City-States provide [Science] equal to [25]% of what they produce for themselves"
+                    "Allied City-States provide [Science] equal to [50]% of what they produce for themselves"
                 ],
                 "requires": ["Philantropy"],
                 "row": 2,
@@ -357,13 +360,9 @@
         "uniques": ["[+25]% [Gold] [in capital]"],
         "policies": [
             {
-                "name": "Naval Tradition",
+                "name": "Mercantilism",
                 "uniques": [
-                    "[+1] Movement <for [{Military} {Water}] units>",
-                    "[+1] Sight <for [{Military} {Water}] units>",
-                    "Free [Great General] appears"
-                    // "[+2] Movement <for [Great Admiral] units>"
-                    // ToDo: Should be "Free [Great Admiral] appears"
+                    "[+3 Gold] from every [Luxury resource]"
                 ],
                 "row": 1,
                 "column": 2
@@ -372,21 +371,24 @@
                 "name": "Trade Unions",
                 "uniques": [
                     "[-33]% maintenance on road & railroads",
-                    "[+1 Gold] from every [Harbor]",
-                    "[+1 Gold] from every [Seaport]"
+                    "[+1 Gold] from every [Market]",
+                    "[+1 Gold] from every [Bank]"
                 ],
                 "row": 1,
                 "column": 4
             },
             {
-                "name": "Merchant Navy",
-                "uniques": ["[+3 Production] [in all coastal cities]"],
-                "requires": ["Naval Tradition"],
+                "name": "Mercenary Army",
+                "uniques": [
+                    "[Gold] cost of purchasing [Military] units [-25]%",
+                    "Military Units gifted from City-States start with [+15] XP"
+                ],
+                "requires": ["Mercantilism"],
                 "row": 2,
                 "column": 2
             },
             {
-                "name": "Mercantilism",
+                "name": "Entrepeneurship",
                 "uniques": [
                     "[Gold] cost of purchasing items in cities [-25]%",
                     "[+1 Science] from every [Mint]",
@@ -415,6 +417,78 @@
             }
         ]
     },
+    {
+        "name": "Exploration",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 0,
+            "Diplomatic": 10,
+            "Domination": 10,
+            "Scientific": 20
+        },
+        "uniques": [
+            "[+1] Movement <for [{Military} {Water}] units>",
+            "[+1] Sight <for [{Military} {Water}] units>"
+        ],
+        "policies": [
+            {
+                "name": "Maritime Infrastructure",
+                "uniques": [
+                    "[+3 Production] [in all coastal cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Naval Tradition",
+                "uniques": [
+                    "[+1 Happiness] from every [Lighthouse]",
+                    "[+1 Happiness] from every [Harbor]",
+                    "[+1 Happiness] from every [Seaport]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Merchant Navy",
+                "uniques": [
+                    "[+2 Gold] from every [Lighthouse]",
+                    "[+2 Gold] from every [Harbor]",
+                    "[+2 Gold] from every [Seaport]"
+                ],
+                "requires": ["Naval Tradition","Maritime Infrastructure"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Navigation School",
+                "uniques": [
+                    "[Great General] units gain the [Great Admiral] promotion",
+                    "Free [Great General] appears"
+                ],
+                "requires": ["Naval Tradition"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Colonialism",
+                "uniques": [
+                    "[+4 Gold] [in all cities] <on foreign continents>",
+                    "[+2 Food] from every [Plantation]"
+                ],
+                "requires": ["Merchant Navy", "Navigation School"],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Exploration Complete",
+                "uniques": [
+                    "[+3 Culture, +3 Science] [in all coastal cities]"
+                ]
+            }
+                ]
+	},
     {
         "name": "Rationalism",
         "era": "Renaissance era",
