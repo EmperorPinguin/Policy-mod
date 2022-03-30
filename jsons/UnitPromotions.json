@@ -2,6 +2,6 @@
 
 {
 		"name": "Great Admiral",
-		"uniques": ["All adjacent units heal [10] HP when healing <when fighting in [Ocean] tiles>", "Double movement in [Coast]", "Double movement in [Ocean]", "Double movement in [Lakes]"]
+		"uniques": ["Double movement in [Coast]", "Double movement in [Ocean]", "Double movement in [Lakes]"]
 	},
 ]
