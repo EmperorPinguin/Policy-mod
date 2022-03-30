@@ -378,21 +378,21 @@
 			},
 			{
 				"name": "Tourism Destination",
-				"uniques": ["[+6 Gold] from every [Landmark]", "Empire enters golden age"],
+				"uniques": ["[+8 Gold] from every [Landmark]","Empire enters golden age"],
 				"requires": ["Cultural Centers", "Architectural Wonders"],
 				"row": 2,
 				"column": 4
 			},
 			{
 				"name": "Cultural Exchange",
-				"uniques": ["[+50]% [Culture] from City-States", "Allied City-States provide [Culture] equal to [50]% of what they produce for themselves", "[-10]% Culture cost of adopting new Policies"],
+				"uniques": ["[+1 Culture] from every [Trading post]", "[+50]% [Culture] from City-States", "Allied City-States provide [Culture] equal to [50]% of what they produce for themselves"],
 				"requires": ["Artistic Genius"],
 				"row": 3,
 				"column": 2
 			},
 			{
 				"name": "Aesthetics Complete",
-				"uniques": ["[+6 Happiness] from every [Landmark]"]
+				"uniques": ["[+4 Happiness] from every [Landmark]", "[-10]% Culture cost of adopting new Policies"]
 			}
 		]
 	},
