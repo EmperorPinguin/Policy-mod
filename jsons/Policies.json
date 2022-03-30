@@ -380,7 +380,7 @@
             {
                 "name": "Mercenary Army",
                 "uniques": [
-                    "[Gold] cost of purchasing [Military] units [-25]%",
+                    "May buy [Military] units with [Gold] for [3] times their normal Production cost",
                     "Military Units gifted from City-States start with [+15] XP"
                 ],
                 "requires": ["Mercantilism"],
@@ -390,7 +390,7 @@
             {
                 "name": "Entrepreneurship",
                 "uniques": [
-                    "[Gold] cost of purchasing items in cities [-25]%",
+                    "May buy [All] buildings with [Gold] for [3] times their normal Production cost",
                     "[+1 Science] from every [Mint]",
                     "[+1 Science] from every [Market]",
                     "[+1 Science] from every [Bank]",
