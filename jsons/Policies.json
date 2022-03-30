@@ -833,10 +833,13 @@
                 "column": 3
             },
             {
-                "name": "Five-Year Plan",
+                "name": "Labour Unions",
                 "requires": ["Planned Economy","Nationalism"],
                 "uniques": [
-                    "[+15]% Production when constructing [All] buildings [in all cities]"
+                    "[+1 Production] from every [Mine]",
+                    "[+1 Production] from every [Quarry]",
+                    "[+2 Production] from every [Windmill]"
+                    "[+2 Production] from every [Hydro Plant]"
                 ],
                 "row": 2,
                 "column": 5
@@ -855,8 +858,7 @@
                 "requires": ["Socialism"],
                 "uniques": [
                     "[+2 Production] [in all cities]",
-                    "[+1 Production] from every [Mine]",
-                    "[+1 Production] from every [Quarry]"
+                    "[+10]% Production when constructing [All] buildings [in all cities]"
                 ],
                 "row": 3,
                 "column": 3

@@ -32,16 +32,16 @@ PolicyIcons/Entrepreneurship
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Five-Year Plan
+PolicyIcons/Free Healthcare
   rotate: false
   xy: 236, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Free Healthcare
+PolicyIcons/Labour Unions
   rotate: false
-  xy: 294, 4
+  xy: 352, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -118,14 +118,14 @@ PolicyIcons/Volunteer Army
   index: -1
 UnitPromotionIcons/Great Admiral
   rotate: false
-  xy: 352, 4
+  xy: 294, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Navigation School
   rotate: false
-  xy: 352, 4
+  xy: 294, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
