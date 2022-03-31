@@ -217,7 +217,7 @@
     },
     {
         "name": "Piety",
-        "era": "Classical era",
+        "era": "Ancient era",
         "priorities": {
             "Neutral": 10,
             "Cultural": 30,
@@ -258,7 +258,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "[+33]% [Culture] [in all cities with a world wonder]",
+                    "May choose [1] additional belief(s) of any type when [Enhancing] a religion",
                     "Empire enters golden age"
                 ],
                 "requires": ["Organized Religion"],
@@ -427,7 +427,7 @@
             {
                 "name": "Mercenary Army",
                 "uniques": [
-                    "May buy [Military] units with [Gold] for [3] times their normal Production cost",
+                    "[Gold] cost of purchasing [Military] units [-33]%",
                     "Military Units gifted from City-States start with [+15] XP"
                 ],
                 "requires": ["Mercantilism"],
@@ -437,7 +437,7 @@
             {
                 "name": "Entrepreneurship",
                 "uniques": [
-                    "May buy [All] buildings with [Gold] for [3] times their normal Production cost",
+                    "[Gold] cost of purchasing [All] buildings [-33]%",
                     "[+1 Science] from every [Mint]",
                     "[+1 Science] from every [Market]",
                     "[+1 Science] from every [Bank]",
