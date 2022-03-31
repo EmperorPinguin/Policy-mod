@@ -909,8 +909,7 @@
                 "uniques": [
                     "[+1 Production] from every [Mine]",
                     "[+1 Production] from every [Quarry]",
-                    "[+2 Production] from every [Windmill]"
-                    "[+2 Production] from every [Hydro Plant]"
+                    "[+1 Production] from every [Strategic resource]"
                 ],
                 "row": 2,
                 "column": 5
