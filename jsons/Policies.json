@@ -377,7 +377,7 @@
 			},
 			{
 				"name": "Tourism Destination",
-				"uniques": ["[+6 Gold] from every [Landmark]","Empire enters golden age"],
+				"uniques": ["[+8 Gold] from every [Landmark]","Empire enters golden age"],
 				"requires": ["Cultural Centers", "Architectural Wonders"],
 				"row": 2,
 				"column": 3
