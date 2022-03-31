@@ -408,6 +408,7 @@
                 "uniques": [
                     "[+100]% [Culture] from City-States",
                     "[+25]% Great Person generation [in all cities connected to capital]"
+                    //Should become: "+25% Great Person generation in all cities with an international trade route", when those are implemented.
                 ],
                 "requires": ["Artistic Genius"],
                 "row": 3,
@@ -796,7 +797,6 @@
                     "[+3 Happiness] from every [Courthouse]",
                     "[+100]% Production when constructing [Courthouse] buildings [in all cities]"
                 ],
-                // There are also some uniques regarding espoinage, which as of this writing is not yet implemented
                 "requires": ["Militarism"],
                 "row": 2,
                 "column": 5
@@ -807,7 +807,7 @@
                     "[+25]% Strength <for [Armored] units> <when attacking>", 
                     "[+1] Movement <for [Armored] units>"
                 ],
-                "requires": ["Military Industry","Fascism"],
+                "requires": ["Military-Industrial Complex","Fascism"],
                 "row": 3,
                 "column": 1
 		},

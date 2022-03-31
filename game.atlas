@@ -60,70 +60,70 @@ PolicyIcons/Cultural Exchange
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Entrepreneurship
+PolicyIcons/Dictatorship
   rotate: false
   xy: 468, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Free Healthcare
+PolicyIcons/Entrepreneurship
   rotate: false
   xy: 526, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Labour Unions
+PolicyIcons/Free Healthcare
   rotate: false
-  xy: 642, 4
+  xy: 584, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Lightning Warfare
+PolicyIcons/Labour Unions
   rotate: false
   xy: 700, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Maritime Infrastructure
+PolicyIcons/Lightning Warfare
   rotate: false
   xy: 758, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Mercenary Army
+PolicyIcons/Maritime Infrastructure
   rotate: false
   xy: 816, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Military Industry
+PolicyIcons/Mercenary Army
   rotate: false
   xy: 874, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Mobilization
+PolicyIcons/Military-Industrial Complex
   rotate: false
   xy: 932, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/New Deal
+PolicyIcons/Mobilization
   rotate: false
   xy: 990, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Personality Cult
+PolicyIcons/New Deal
   rotate: false
   xy: 1048, 4
   size: 50, 50
@@ -160,14 +160,14 @@ PolicyIcons/Volunteer Army
   index: -1
 UnitPromotionIcons/Great Admiral
   rotate: false
-  xy: 584, 4
+  xy: 642, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Navigation School
   rotate: false
-  xy: 584, 4
+  xy: 642, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
