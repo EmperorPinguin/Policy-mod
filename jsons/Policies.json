@@ -164,8 +164,8 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[+15]% Production when constructing [Melee] units [in all cities]",
-                    "Free [Great General] appears"
+                    "Provides a [Barracks] in your first [4] cities for free",
+                    "[+15]% Production when constructing [Melee] units [in all cities]"
                 ],
                 "row": 1,
                 "column": 2
@@ -201,9 +201,7 @@
                 "name": "Professional Army",
                 "uniques": [
                     "[-33]% Gold cost of upgrading <for [Military] units>",
-                    "[+1 Production, +1 Happiness] from every [Barracks]",
-                    "[+1 Production, +1 Happiness] from every [Armory]",
-                    "[+1 Production, +1 Happiness] from every [Military Academy]"
+                    "[+2 Happiness] from every [Military Academy]"
                 ],
                 "requires": ["Military Caste"],
                 "row": 3,
