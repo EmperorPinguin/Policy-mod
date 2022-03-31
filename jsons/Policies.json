@@ -383,7 +383,8 @@
             {
                 "name": "Artistic Genius",
                 "uniques": [
-                    "Free [Great Artist] appears"
+                    "Free [Great Artist] appears",
+                    "[+100 Culture] whenever a Great Person is expended"
                 ],
                 "requires": ["Cultural Centers"],
                 "row": 2,
