@@ -366,7 +366,7 @@
 				"name": "Architectural Wonders",
 				"uniques": ["[+33]% [Culture] [in all cities with a world wonder]", "[+15]% Production when constructing [All] wonders [in all cities]"],
 				"row": 1,
-				"column": 3
+				"column": 4
 			},
 			{
 				"name": "Artistic Genius",
