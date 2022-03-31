@@ -203,7 +203,7 @@
                 "name": "Professional Army",
                 "uniques": [
                     "[-33]% Gold cost of upgrading <for [Military] units>",
-                    "[+2 Happiness] from every [Military Academy]"
+                    "[+2 Happiness] from every [Armory]"
                 ],
                 "requires": ["Military Caste"],
                 "row": 3,
@@ -755,7 +755,7 @@
                 "column": 1
             },
             {
-                "name": "Military Industry",
+                "name": "Military-Industrial Complex",
                 "uniques": [
                     "[+3 Science] from every [Stable]", 
                     "[+3 Science] from every [Forge]", 
@@ -766,16 +766,15 @@
 		},
             {
                 "name": "Militarism",
-                "uniques": ["[Gold] cost of purchasing [All] units [-33]%"],
+                "uniques": ["[+2 Happiness] from every [Military Academy]"],
                 "row": 1,
                 "column": 5
             },
             {
 
-                "name": "Personality Cult",
+                "name": "Dictatorship",
                 "uniques": [
-                    "[+1 Happiness] from every [Monument]", 
-                    "May buy [Military] units with [Faith] for [2] times their normal Production cost"
+                    "[Gold] cost of purchasing [All] units [-33]%"
                 ],
                 "requires": ["Populism"],
                 "row": 2,
