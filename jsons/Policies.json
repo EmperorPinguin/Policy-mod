@@ -1,14 +1,14 @@
 [
 //Name|Neutral|Culture|Diplomatic|Domination|Scientific
-//Tradition|40|40|40|10|0
-//Liberty|40|0|0|0|40
-//Honor|10|0|0|40|0
-//Piety|10|30|0|0|10
-//Aesthetics|TBD
-//Patronage|10|0|30|0|0
-//Commerce|10|10|20|30|20
-//Exploration|10|0|10|10|20
-//Rationalism|10|20|10|20|30
+//Tradition|10|20|10|10|10
+//Liberty|10|10|10|10|20
+//Honor|10|10|10|20|10
+//Piety|10|10|10|10|10
+//Aesthetics|10|20|10|10|10
+//Patronage|10|10|20|10|10
+//Commerce|10|10|10|10|10
+//Exploration|10|10|10|10|10
+//Rationalism|10|10|10|10|20
 //Freedom|50|50|0|0|0
 //Autocracy|50|0|0|50|0
 //Order|50|0|50|0|50
@@ -16,11 +16,11 @@
         "name": "Tradition",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 40,
-            "Cultural": 40,
-            "Diplomatic": 40,
+            "Neutral": 10,
+            "Cultural": 20,
+            "Diplomatic": 10,
             "Domination": 10,
-            "Scientific": 0
+            "Scientific": 10
         },
         "uniques": [
             "[+3 Culture] [in capital]",
@@ -85,11 +85,11 @@
         "name": "Liberty",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 40,
-            "Cultural": 0,
-            "Diplomatic": 0,
-            "Domination": 0,
-            "Scientific": 40
+            "Neutral": 10,
+            "Cultural": 10,
+            "Diplomatic": 10,
+            "Domination": 10,
+            "Scientific": 20
         },
         "uniques": ["[+1 Culture] [in all cities]"],
         "policies": [
@@ -151,10 +151,10 @@
         "era": "Ancient era",
         "priorities": {
             "Neutral": 10,
-            "Cultural": 0,
-            "Diplomatic": 0,
-            "Domination": 40,
-            "Scientific": 0
+            "Cultural": 10,
+            "Diplomatic": 10,
+            "Domination": 20,
+            "Scientific": 10
         },
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>",
@@ -221,9 +221,9 @@
         "era": "Ancient era",
         "priorities": {
             "Neutral": 10,
-            "Cultural": 30,
-            "Diplomatic": 0,
-            "Domination": 0,
+            "Cultural": 10,
+            "Diplomatic": 10,
+            "Domination": 10,
             "Scientific": 10
         },
         "uniques": [
@@ -291,10 +291,10 @@
         "era": "Medieval era",
         "priorities": {
             "Neutral": 10,
-            "Cultural": 0,
-            "Diplomatic": 30,
-            "Domination": 0,
-            "Scientific": 0
+            "Cultural": 10,
+            "Diplomatic": 20,
+            "Domination": 10,
+            "Scientific": 10
         },
         "uniques": ["[-25]% City-State Influence degradation"],
         "policies": [
@@ -352,47 +352,70 @@
         ]
     },
 	{
-		"name": "Aesthetics",
-		"era": "Classical era",
-		"uniques": ["[+25]% [Culture] <while the empire is happy>"],
+        "name": "Aesthetics",
+        "era": "Classical era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 20,
+            "Diplomatic": 10,
+            "Domination": 10,
+            "Scientific": 10
+        },
+        "uniques": ["[+25]% [Culture] <while the empire is happy>"],
 		"policies": [
-			{
-				"name": "Cultural Centers",
-				"uniques": ["[+2 Culture] from every specialist [in all cities]"],
-				"row": 1,
-				"column": 2
-			},
-			{
-				"name": "Architectural Wonders",
-				"uniques": ["[+33]% [Culture] [in all cities with a world wonder]", "[+15]% Production when constructing [All] wonders [in all cities]"],
-				"row": 1,
-				"column": 5
-			},
-			{
-				"name": "Artistic Genius",
-				"uniques": ["Free [Great Artist] appears"],
-				"requires": ["Cultural Centers"],
-				"row": 2,
-				"column": 2
-			},
-			{
-				"name": "Tourism Destination",
-				"uniques": ["[+8 Gold] from every [Landmark]","Empire enters golden age"],
-				"requires": ["Cultural Centers", "Architectural Wonders"],
-				"row": 2,
-				"column": 3
-			},
-			{
-				"name": "Cultural Exchange",
-				"uniques": ["[+100]% [Culture] from City-States", "[+25]% Great Person generation [in all cities connected to capital]"],
-				"requires": ["Artistic Genius"],
-				"row": 3,
-				"column": 2
-			},
-			{
+            {
+                "name": "Cultural Centers",
+                "uniques": [
+                    "[+2 Culture] from every specialist [in all cities]"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Architectural Wonders",
+                "uniques": [
+                    "[+33]% [Culture] [in all cities with a world wonder]",
+                    "[+15]% Production when constructing [All] wonders [in all cities]"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Artistic Genius",
+                "uniques": [
+                    "Free [Great Artist] appears"
+                ],
+                "requires": ["Cultural Centers"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Tourism Destination",
+                "uniques": [
+                    "[+1 Gold] from all [Culture] buildings",
+                    "Empire enters golden age"
+                ],
+                "requires": ["Cultural Centers", "Architectural Wonders"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Cultural Exchange",
+                "uniques": [
+                    "[+100]% [Culture] from City-States",
+                    "[+25]% Great Person generation [in all cities connected to capital]"
+                ],
+                "requires": ["Artistic Genius"],
+                "row": 3,
+                "column": 2
+            },
+            {
 				"name": "Aesthetics Complete",
-				"uniques": ["[+4 Happiness] from every [Landmark]", "[-10]% Culture cost of adopting new Policies"]
-			}
+				"uniques": [
+                    "[+4 Happiness] from every [Landmark]",
+                    "[-10]% Culture cost of adopting new Policies"
+                ]
+            }
 		]
 	},
     {
@@ -401,9 +424,9 @@
         "priorities": {
             "Neutral": 10,
             "Cultural": 10,
-            "Diplomatic": 20,
-            "Domination": 30,
-            "Scientific": 20
+            "Diplomatic": 10,
+            "Domination": 10,
+            "Scientific": 10
         },
         "uniques": ["[+25]% [Gold] [in capital]"],
         "policies": [
@@ -470,10 +493,10 @@
         "era": "Medieval era",
         "priorities": {
             "Neutral": 10,
-            "Cultural": 0,
+            "Cultural": 10,
             "Diplomatic": 10,
             "Domination": 10,
-            "Scientific": 20
+            "Scientific": 10
         },
         "uniques": [
             "[+1] Movement <for [{Military} {Water}] units>",
@@ -542,10 +565,10 @@
         "era": "Renaissance era",
         "priorities": {
             "Neutral": 10,
-            "Cultural": 20,
+            "Cultural": 10,
             "Diplomatic": 10,
-            "Domination": 20,
-            "Scientific": 30
+            "Domination": 10,
+            "Scientific": 20
         },
         "uniques": [
             "[+15]% [Science] <while the empire is happy>"
