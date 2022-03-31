@@ -1,6 +1,6 @@
 
 game.png
-size: 1024, 64
+size: 2048, 64
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -11,121 +11,163 @@ PolicyIcons/Aerospace Engineering
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Capitalism
+PolicyIcons/Architectural Wonders
   rotate: false
   xy: 62, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Colonialism
+PolicyIcons/Artistic Genius
   rotate: false
   xy: 120, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Entrepreneurship
+PolicyIcons/Capitalism
   rotate: false
   xy: 178, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Free Healthcare
+PolicyIcons/Colonialism
   rotate: false
   xy: 236, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Labour Unions
+PolicyIcons/Consulates
+  rotate: false
+  xy: 294, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cultural Centers
   rotate: false
   xy: 352, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Lightning Warfare
+PolicyIcons/Cultural Exchange
   rotate: false
   xy: 410, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Maritime Infrastructure
+PolicyIcons/Entrepreneurship
   rotate: false
   xy: 468, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Mercenary Army
+PolicyIcons/Free Healthcare
   rotate: false
   xy: 526, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Military Industry
-  rotate: false
-  xy: 584, 4
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Mobilization
+PolicyIcons/Labour Unions
   rotate: false
   xy: 642, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/New Deal
+PolicyIcons/Lightning Warfare
   rotate: false
   xy: 700, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Personality Cult
+PolicyIcons/Maritime Infrastructure
   rotate: false
   xy: 758, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Proletarian Internationalism
+PolicyIcons/Mercenary Army
   rotate: false
   xy: 816, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Resettlement
+PolicyIcons/Military Industry
   rotate: false
   xy: 874, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Volunteer Army
+PolicyIcons/Mobilization
   rotate: false
   xy: 932, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
+PolicyIcons/New Deal
+  rotate: false
+  xy: 990, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Personality Cult
+  rotate: false
+  xy: 1048, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Proletarian Internationalism
+  rotate: false
+  xy: 1106, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Resettlement
+  rotate: false
+  xy: 1164, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Tourism Destination
+  rotate: false
+  xy: 1222, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Volunteer Army
+  rotate: false
+  xy: 1280, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Great Admiral
   rotate: false
-  xy: 294, 4
+  xy: 584, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Navigation School
   rotate: false
-  xy: 294, 4
+  xy: 584, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

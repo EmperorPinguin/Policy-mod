@@ -383,7 +383,7 @@
 			},
 			{
 				"name": "Cultural Exchange",
-				"uniques": ["[+1 Culture] from every [Trading post]", "[+50]% [Culture] from City-States", "Allied City-States provide [Culture] equal to [50]% of what they produce for themselves"],
+				"uniques": ["[+100]% [Culture] from City-States", "[+25]% Great Person generation [in all cities connected to capital]"],
 				"requires": ["Artistic Genius"],
 				"row": 3,
 				"column": 2
