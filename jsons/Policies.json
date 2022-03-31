@@ -366,7 +366,7 @@
 				"name": "Architectural Wonders",
 				"uniques": ["[+33]% [Culture] [in all cities with a world wonder]", "[+15]% Production when constructing [All] wonders [in all cities]"],
 				"row": 1,
-				"column": 4
+				"column": 3
 			},
 			{
 				"name": "Artistic Genius",
@@ -377,7 +377,7 @@
 			},
 			{
 				"name": "Tourism Destination",
-				"uniques": ["[+8 Gold] from every [Landmark]","Empire enters golden age"],
+				"uniques": ["[+6 Gold] from every [Landmark]","Empire enters golden age"],
 				"requires": ["Cultural Centers", "Architectural Wonders"],
 				"row": 2,
 				"column": 3
