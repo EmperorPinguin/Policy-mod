@@ -4,6 +4,7 @@
 //Liberty|40|0|0|0|40
 //Honor|10|0|0|40|0
 //Piety|10|30|0|0|10
+//Aesthetics|TBD
 //Patronage|10|0|30|0|0
 //Commerce|10|10|20|30|20
 //Exploration|10|0|10|10|20
@@ -613,7 +614,6 @@
         },
         "uniques": [
             "[+25]% Great Person generation [in all cities]",
-            "[-10]% Culture cost of adopting new Policies",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Order]>"
         ],
@@ -698,7 +698,7 @@
                 "name": "Freedom Complete",
                 "uniques": [
                     "Empire enters golden age",
-                    "[-10]% Culture cost of adopting new Policies",
+                    "Free Social Policy",
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
@@ -717,7 +717,6 @@
         "uniques": [
             "[-33]% maintenance costs <for [All] units>",
             "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
-            "[-10]% Culture cost of adopting new Policies",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>"
         ],
@@ -811,7 +810,7 @@
                 "name": "Autocracy Complete",
                 "uniques": [
                     "[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>",
-                    "[-10]% Culture cost of adopting new Policies",
+                    "Free Social Policy",
                     "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
                     "May buy [Great Admiral] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
@@ -830,7 +829,6 @@
         },
         "uniques": [
             "[+1 Happiness] [in all cities]",
-            "[-10]% Culture cost of adopting new Policies",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],
@@ -923,7 +921,7 @@
                 "name": "Order Complete",
                 "uniques": [
                     "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
-                    "[-10]% Culture cost of adopting new Policies",
+                    "Free Social Policy",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
