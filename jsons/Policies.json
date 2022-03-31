@@ -242,7 +242,9 @@
             },
             {
                 "name": "Mandate Of Heaven",
-                "uniques": ["[50]% of excess happiness converted to [Culture]"],
+                "uniques": [
+                    "[+2 Culture] [in all cities] <while the empire is happy>"
+                ],
                 "row": 1,
                 "column": 5
             },
