@@ -386,8 +386,7 @@
             {
                 "name": "Artistic Genius",
                 "uniques": [
-                    "Free [Great Artist] appears",
-                    "[+100 Culture] whenever a Great Person is expended"
+                    "Free [Great Artist] appears"
                 ],
                 "requires": ["Cultural Centers"],
                 "row": 2,
@@ -407,8 +406,8 @@
                 "name": "Cultural Exchange",
                 "uniques": [
                     "[+100]% [Culture] from City-States",
-                    "[+25]% Great Person generation [in all cities connected to capital]"
-                    //Should become: "+25% Great Person generation in all cities with an international trade route", when those are implemented.
+                    "[+50]% Great Person generation [in all cities connected to capital]"
+                    //Should become: "+50% Great Person generation in all cities with an international trade route", when those are implemented.
                 ],
                 "requires": ["Artistic Genius"],
                 "row": 3,
@@ -937,7 +936,9 @@
                 "name": "Aerospace Engineering",
                 "requires": ["Labour Unions"],
                 "uniques": [
-                    "[+7 Production, +10 Science] from every [Spaceship Factory]"
+                    "[+5 Production, +5 Science] from every [Spaceship Factory]",
+                    "[+15]% Production when constructing [Spaceship part] units [in all cities]",
+                    "[+15]% Production when constructing [Missile] units [in all cities]"
                 ],
                 "row": 3,
                 "column": 5
