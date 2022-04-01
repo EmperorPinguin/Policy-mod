@@ -102,28 +102,28 @@ PolicyIcons/Mercenary Army
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Military Junta
+PolicyIcons/Military-Industrial Complex
   rotate: false
   xy: 874, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Military-Industrial Complex
+PolicyIcons/Mobilization
   rotate: false
   xy: 932, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Mobilization
+PolicyIcons/New Deal
   rotate: false
   xy: 990, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/New Deal
+PolicyIcons/Patriotism
   rotate: false
   xy: 1048, 4
   size: 50, 50

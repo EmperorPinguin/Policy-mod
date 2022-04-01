@@ -10,9 +10,9 @@ Free Healthcare: Healthcare by Gregor Cresnar
 Mercenary Army: double axe by Vectors Market
 Maritime Infrastructure: Lighthouse by emka angelina
 Military Industry: Gears by Gregor Cresnar
-Military Junta: dictator by Luis Prado
-Mobilization: soldier by Adrien Coquet
+Mobilization: dictator by Luis Prado
 New Deal: growth by iconnut
+Patriotism: soldier by Adrien Coquet
 Proletarian Internationalism: Protest by Cristopher T. Howlett
 Resettlement: GPS by YANDI RS
 Tourism Destination: Airplane by Rainbow Designs

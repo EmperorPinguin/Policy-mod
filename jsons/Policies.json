@@ -695,7 +695,7 @@
                 "column": 5
             },
             {
-                "name": "Mobilization",
+                "name": "Patriotism",
                 "uniques": [
                     "[+33]% Strength for cities <when defending>"
                 ],
@@ -772,7 +772,7 @@
             },
             {
 
-                "name": "Military Junta",
+                "name": "Mobilization",
                 "uniques": [
                     "[Gold] cost of purchasing [All] units [-33]%"
                 ],
