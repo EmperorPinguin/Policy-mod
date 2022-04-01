@@ -1,14 +1,28 @@
-I stole many images from Ravignir's mods, but her I start adding some proper credits.
-The images are from The Noun Project, unless otherwise specified
+Images that come from The Noun Project:
 Aerospace Engineering: Rocket by Asep Yopie Hardi Noer
 Architectural Wonders: La Sagrada Familia by Wolf Böse
 Capitalism: capitalism by Kamin Ginkaew
+Consulates: School by David Khai
+Cultural Centers: Flourish by Nugraha Wira Menggala
+Cultural Exchange: exchange by Markus
+Entreprenearship: stock trader by Jose Dean
+Free Healthcare: Healthcare by Gregor Cresnar
 Mercenary Army: double axe by Vectors Market
+Maritime Infrastructure: Lighthouse by emka angelina
 Military Industry: Gears by Gregor Cresnar
+Military Junta: dictator by Luis Prado
 Mobilization: soldier by Adrien Coquet
 New Deal: growth by iconnut
-Personality Cult: dictator by Luis Prado
 Proletarian Internationalism: Protest by Cristopher T. Howlett
 Resettlement: GPS by YANDI RS
 Tourism Destination: Airplane by Rainbow Designs
 Volunteer Army: soldier by Wonmo Kang
+
+Images that come from the base game:
+Artistic Genius - Great Artist
+Colonialism - Settler
+Lightning Warfare - Blitz
+Navigation School - Amphibious
+
+Images that come from RekMOD, for which I am unable to trace back the original source
+Labour Unions - Hero of the People

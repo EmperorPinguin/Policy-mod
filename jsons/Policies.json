@@ -772,7 +772,7 @@
             },
             {
 
-                "name": "Dictatorship",
+                "name": "Military Junta",
                 "uniques": [
                     "[Gold] cost of purchasing [All] units [-33]%"
                 ],
@@ -784,7 +784,7 @@
                 "name": "Fascism",
                 "uniques": [
                     "Quantity of strategic resources produced by the empire +[100]%",
-                    "[+2] Movement <for [Great General] units>"
+                    "[+3] Movement <for [Great General] units>"
                 ],
                 "requires": ["Populism", "Militarism"],
                 "row": 2,
@@ -836,8 +836,7 @@
                 "uniques": [
                     "[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>",
                     "Free Social Policy",
-                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
-                    "May buy [Great Admiral] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
         ]
