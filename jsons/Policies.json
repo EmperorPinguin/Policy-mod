@@ -936,9 +936,9 @@
                 "name": "Aerospace Engineering",
                 "requires": ["Labour Unions"],
                 "uniques": [
-                    "[+5 Production, +5 Science] from every [Spaceship Factory]",
-                    "[+15]% Production when constructing [Spaceship part] units [in all cities]",
-                    "[+15]% Production when constructing [Missile] units [in all cities]"
+                    "[+100]% Production when constructing [Spaceship Factory] buildings [in all cities]",
+                    "[+25]% Production when constructing [Spaceship part] units [in all cities]",
+                    "[+25]% Production when constructing [Missile] units [in all cities]"
                 ],
                 "row": 3,
                 "column": 5
