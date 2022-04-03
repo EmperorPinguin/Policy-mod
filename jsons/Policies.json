@@ -283,7 +283,7 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "[Faith] cost of purchasing items in cities [-25]% ",
+                    "[Faith] cost of purchasing items in cities [-20]%",
                     "[+3 Culture] from every [Holy site]"
                 ]
             }
