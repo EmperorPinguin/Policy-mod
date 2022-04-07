@@ -338,7 +338,7 @@
             },
             {
                 "name": "Educated Elite",
-                "requires": ["Scholasticism", "Aesthetics"],
+                "requires": ["Scholasticism", "Consulates"],
                 "uniques": [
                     "Allied City-States will occasionally gift Great People"
                 ],
