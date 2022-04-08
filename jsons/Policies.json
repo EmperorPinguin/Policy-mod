@@ -76,7 +76,8 @@
                 "name": "Tradition Complete",
                 "uniques": [
                     "[+15]% growth [in all cities]",
-                    "Provides a [Aqueduct] in your first [4] cities for free"
+                    "Provides a [Aqueduct] in your first [4] cities for free",
+                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
         ]
@@ -166,7 +167,8 @@
                 "name": "Warrior Code",
                 "uniques": [
                     "Provides a [Barracks] in your first [4] cities for free",
-                    "[+15]% Production when constructing [Melee] units [in all cities]"
+                    "Free [Great General] appears"
+
                 ],
                 "row": 1,
                 "column": 2
@@ -174,8 +176,8 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
-                    "[+15]% Strength <for [Mounted] units> <when adjacent to a [Mounted] unit>"
+                    "[+15]% Production when constructing [Melee] units [in all cities]",
+                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"
                 ],
                 "row": 1,
                 "column": 4
@@ -212,7 +214,9 @@
             {
                 "name": "Honor Complete",
                 "uniques": [
-                    "Earn [10]% of killed [Military] unit's [Cost] as [Gold]"
+                    "Earn [10]% of killed [Military] unit's [Cost] as [Gold]",
+                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+
                 ]
             }
         ]
@@ -405,7 +409,6 @@
             {
                 "name": "Cultural Exchange",
                 "uniques": [
-                    "[+100]% [Culture] from City-States",
                     "[+50]% Great Person generation [in all cities connected to capital]"
                     //Should become: "+50% Great Person generation in all cities with an international trade route", when those are implemented.
                 ],
@@ -416,8 +419,10 @@
             {
 				"name": "Aesthetics Complete",
 				"uniques": [
-                    "[+3 Happiness] from every [Landmark]",
+                    "[+6 Culture] from every [Landmark]",
                     "[-10]% Culture cost of adopting new Policies"
+                    "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+
                 ]
             }
 		]
@@ -726,8 +731,7 @@
                 "name": "Freedom Complete",
                 "uniques": [
                     "Empire enters golden age",
-                    "Free Social Policy",
-                    "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "Free Social Policy"
                 ]
             }
         ]
@@ -837,8 +841,7 @@
                 "name": "Autocracy Complete",
                 "uniques": [
                     "[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>",
-                    "Free Social Policy",
-                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "Free Social Policy"
                 ]
             }
         ]
@@ -949,8 +952,7 @@
                 "name": "Order Complete",
                 "uniques": [
                     "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
-                    "Free Social Policy",
-                    "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+                    "Free Social Policy"
                 ]
             }
         ]
