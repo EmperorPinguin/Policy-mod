@@ -812,7 +812,7 @@
                     "[+25]% Strength <for [Armored] units> <when attacking>", 
                     "[+1] Movement <for [Armored] units>"
                 ],
-                "requires": ["Military-Industrial Complex","Fascism"],
+                "requires": ["Military-Industrial Complex","Mobilization"],
                 "row": 3,
                 "column": 1
 		},
