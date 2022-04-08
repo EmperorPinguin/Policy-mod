@@ -555,7 +555,7 @@
                 "name": "Colonialism",
                 "uniques": [
                     "[+4 Gold] [in all cities] <on foreign continents>",
-                    "[+1 Food] from every [Plantation]"
+                    "[+2 Food] from every [Plantation]"
                 ],
                 "requires": ["Merchant Navy", "Navigation School"],
                 "row": 3,
