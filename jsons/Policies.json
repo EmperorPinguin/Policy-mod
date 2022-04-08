@@ -409,7 +409,8 @@
             {
                 "name": "Cultural Exchange",
                 "uniques": [
-                    "[+50]% Great Person generation [in all cities connected to capital]"
+                    "[+50]% Great Person generation [in all cities connected to capital]",
+                    "[-10]% Culture cost of adopting new Policies"
                     //Should become: "+50% Great Person generation in all cities with an international trade route", when those are implemented.
                 ],
                 "requires": ["Artistic Genius"],
@@ -420,7 +421,6 @@
 				"name": "Aesthetics Complete",
 				"uniques": [
                     "[+6 Culture] from every [Landmark]",
-                    "[-10]% Culture cost of adopting new Policies"
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
 
                 ]
