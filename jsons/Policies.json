@@ -383,6 +383,7 @@
                 "name": "Architectural Wonders",
                 "uniques": [
                     "[+33]% [Culture] [in all cities with a world wonder]",
+                    "[+1 Happiness] from every [Wonder]",
                     "[+15]% Production when constructing [All] wonders [in all cities]"
                 ],
                 "row": 1,
@@ -421,7 +422,6 @@
                 "name": "Aesthetics Complete",
                 "uniques": [
                     "[+6 Culture] from every [Landmark]",
-                    "[-10]% Culture cost of adopting new Policies",
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
