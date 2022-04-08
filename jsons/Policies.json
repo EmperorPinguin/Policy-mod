@@ -160,6 +160,7 @@
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>",
             "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]",
+            "[+5] Unit Supply",
             "Notified of new Barbarian encampments"
         ],
         "policies": [
