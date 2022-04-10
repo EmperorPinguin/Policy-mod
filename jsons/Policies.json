@@ -393,7 +393,7 @@
                 "name": "Artistic Genius",
                 "uniques": [
                     "Free [Great Artist] appears",
-                    "Empire enters golden age",
+                    "Empire enters golden age"
                 ],
                 "requires": ["Cultural Centers"],
                 "row": 2,
