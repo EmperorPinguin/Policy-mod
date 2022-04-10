@@ -868,11 +868,11 @@
             "Only available <before adopting [Freedom]>"
         ],
         "policies": [
-            {
-                "name": "United Front",
+             {
+                "name": "Proletarian Internationalism",
                 "uniques": [
-                    "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
-                    "[+50]% [Food] from City-States"
+                    "[-25]% City-State Influence degradation", 
+                    "Gifts of Gold to City-States generate [25]% more Influence"
                 ],
                 "row": 1,
                 "column": 1
@@ -895,15 +895,16 @@
                 "column": 5
             },
             {
-                "name": "Proletarian Internationalism",
-                "requires": ["United Front"],
+                "name": "United Front",
+                "requires": ["Proletarian Internationalism"],
                 "uniques": [
-                    "[-25]% City-State Influence degradation", 
-                    "Gifts of Gold to City-States generate [25]% more Influence"
+                    "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
+                    "[+50]% [Food] from City-States"
                 ],
                 "row": 2,
                 "column": 1
             },
+           
             {
                 "name": "Socialism",
                 "requires": ["Planned Economy"],
