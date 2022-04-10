@@ -775,7 +775,7 @@
                 "name": "Militarism",
                 "uniques": [
                     "[+2 Happiness] from every [Military Academy]",
-                    "[+100]% Production when constructing [Military] buildings [in all cities]"
+                    "[+100]% Production when constructing [Military Academy] buildings [in all cities]"
                 ],
                 "row": 1,
                 "column": 5
