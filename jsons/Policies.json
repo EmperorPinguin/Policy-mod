@@ -814,7 +814,8 @@
             {
                 "name": "Lightning Warfare",
                 "uniques": [
-                    "[+25]% Strength <for [Armored] units> <when attacking>", 
+                    "[+25]% Strength <for [Armored] units> <when attacking>",
+                    "[Armored] units gain the [Ignore Zone of Control] promotion",
                     "[+1] Movement <for [Armored] units>"
                 ],
                 "requires": ["Military-Industrial Complex","Mobilization"],

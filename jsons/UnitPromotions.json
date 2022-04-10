@@ -4,4 +4,8 @@
 		"name": "Great Admiral",
 		"uniques": ["Double movement in [Coast]", "Double movement in [Ocean]", "Double movement in [Lakes]"]
 	},
+{
+		"name": "Ignore Zone of Control",
+		"uniques": ["Ignores Zone of Control"]
+	},
 ]
