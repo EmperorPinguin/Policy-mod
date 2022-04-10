@@ -412,7 +412,6 @@
                 "name": "Cultural Exchange",
                 "uniques": [
                     "When declaring friendship, both parties gain a [25]% boost to great person generation"
-                    //Should become: "+25% Great Person generation in all cities with an international trade route", when those are implemented.
                 ],
                 "requires": ["Artistic Genius"],
                 "row": 3,
