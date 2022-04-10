@@ -392,7 +392,8 @@
             {
                 "name": "Artistic Genius",
                 "uniques": [
-                    "Free [Great Artist] appears"
+                    "Free [Great Artist] appears",
+                    "Empire enters golden age"
                 ],
                 "requires": ["Cultural Centers"],
                 "row": 2,
@@ -401,8 +402,7 @@
             {
                 "name": "Tourism Destination",
                 "uniques": [
-                    "[+1 Gold] from all [Culture] buildings",
-                    "Empire enters golden age"
+                    "[+1 Gold] from all [Culture] buildings"
                 ],
                 "requires": ["Cultural Centers", "Architectural Wonders"],
                 "row": 2,
@@ -420,7 +420,7 @@
             {
                 "name": "Aesthetics Complete",
                 "uniques": [
-                    "[+6 Culture] from every [Landmark]",
+                    "[+6 Culture] from every [Landmark]", 
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
