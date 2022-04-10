@@ -383,7 +383,7 @@
                 "name": "Architectural Wonders",
                 "uniques": [
                     "[+33]% [Culture] [in all cities with a world wonder]",
-                    "[+1 Happiness] from every [Wonder]",
+                    "[+2 Happiness] from every [Wonder]",
                     "[+15]% Production when constructing [All] wonders [in all cities]"
                 ],
                 "row": 1,
@@ -393,7 +393,7 @@
                 "name": "Artistic Genius",
                 "uniques": [
                     "Free [Great Artist] appears",
-                    "Empire enters golden age"
+                    "Empire enters golden age",
                 ],
                 "requires": ["Cultural Centers"],
                 "row": 2,
