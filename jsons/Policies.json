@@ -660,7 +660,7 @@
             {
                 "name": "Universal Suffrage",
                 "uniques": [
-                    "[+1 Production] per [5] population [in all cities]"
+                    "[+1 Production] per [4] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -685,7 +685,8 @@
             {
                 "name": "Volunteer Army",
                 "uniques": [
-                    "[8] units cost no maintenance"
+                    "[5] units cost no maintenance",
+                    "[5] free [Great War Infantry] units appear"
                 ],
                 "requires": ["Universal Suffrage"],
                 "row": 2,
@@ -866,7 +867,8 @@
             {
                 "name": "United Front",
                 "uniques": [
-                    "Militaristic City-States grant units [2] times as fast when you are at war with a common nation"
+                    "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
+                    "[+50]% [Food] from City-States"
                 ],
                 "row": 1,
                 "column": 1
