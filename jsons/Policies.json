@@ -326,7 +326,7 @@
             {
                 "name": "Scholasticism",
                 "uniques": [
-                    "Allied City-States provide [Science] equal to [50]% of what they produce for themselves"
+                    "Allied City-States provide [Science] equal to [100]% of what they produce for themselves"
                 ],
                 "requires": ["Philantropy"],
                 "row": 2,
@@ -370,7 +370,7 @@
             "Domination": 10,
             "Scientific": 10
         },
-        "uniques": ["[+25]% [Culture] <while the empire is happy>"],
+        "uniques": ["[+15]% [Culture] <while the empire is happy>"],
 		"policies": [
             {
                 "name": "Cultural Centers",
@@ -407,7 +407,7 @@
                 ],
                 "requires": ["Cultural Centers", "Architectural Wonders"],
                 "row": 2,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Cultural Exchange",
@@ -483,7 +483,7 @@
             {
                 "name": "Protectionism",
                 "uniques": ["[+2] Happiness from each type of luxury resource"],
-                "requires": ["Mercantilism"],
+                "requires": ["Entrepreneurship"],
                 "row": 3,
                 "column": 4
             },
