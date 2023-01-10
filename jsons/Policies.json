@@ -240,8 +240,9 @@
             {
                 "name": "Organized Religion",
                 "uniques": [
-                    "[+1 Faith, +1 Food] from every [Shrine]",
-                    "[+1 Faith, +1 Food] from every [Temple]"
+                    "[+1 Faith] from every [Shrine]",
+                    "[+1 Faith] from every [Temple]",
+                    "[Faith] cost of purchasing items in cities [-20]%",
                 ],
                 "row": 1,
                 "column": 2
@@ -288,7 +289,8 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "[Faith] cost of purchasing items in cities [-20]%",
+                    "[+1 Food] from every [Shrine]",
+                    "[+1 Food] from every [Temple]",
                     "[+3 Culture] from every [Holy site]"
                 ]
             }
