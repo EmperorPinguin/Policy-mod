@@ -258,7 +258,7 @@
             {
                 "name": "Theocracy",
                 "uniques": [
-                    "[+25]% [Gold] from every [Temple]",
+                    "[+10]% [Gold] from every [Temple]",
                     "[+3 Gold] from every [Holy site]"
                 ],
                 "requires": ["Organized Religion"],
@@ -280,7 +280,7 @@
                 "uniques": [
                     "[+1 Happiness] from every [Shrine]",
                     "[+1 Happiness] from every [Temple]",
-                    "[-10]% Culture cost of adopting new Policies"
+                    "[+3 Culture] from every [Holy site]"
                 ],
                 "requires": ["Mandate Of Heaven", "Reformation"],
                 "row": 3,
@@ -291,7 +291,6 @@
                 "uniques": [
                     "[+1 Food] from every [Shrine]",
                     "[+1 Food] from every [Temple]",
-                    "[+3 Culture] from every [Holy site]"
                 ]
             }
         ]
