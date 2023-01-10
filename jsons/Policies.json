@@ -268,7 +268,7 @@
                 "name": "Reformation",
                 "uniques": [
                     "May choose [1] additional belief(s) of any type when [enhancing] a religion",
-                    "Empire enters golden age"
+                    "Free [Great Prophet] appears"
                 ],
                 "requires": ["Organized Religion"],
                 "row": 2,
