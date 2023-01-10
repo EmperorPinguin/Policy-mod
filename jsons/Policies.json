@@ -391,8 +391,8 @@
             {
                 "name": "Artistic Genius",
                 "uniques": [
-                    "Free [Great Artist] appears",
-                    "[+2 Happiness] from every [Wonder]"
+                    "[+2 Happiness] from every [Wonder]",
+                    "Free [Great Artist] appears"
                 ],
                 "requires": ["Cultural Centers"],
                 "row": 2,
