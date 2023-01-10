@@ -159,8 +159,7 @@
         },
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>",
-            "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
-            "[5] units cost no maintenance",
+            "Receive triple Gold from Barbarian encampments and pillaging Cities"
             "[+5] Unit Supply",
             "Notified of new Barbarian encampments"
         ],
