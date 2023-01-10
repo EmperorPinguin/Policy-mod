@@ -354,6 +354,7 @@
             {
                 "name": "Patronage Complete",
                 "uniques": [
+                    "Military Units gifted from City-States start with [+15] XP",
                     "Influence of all other civilizations with all city-states degrades [33]% faster",
                     "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
                 ]
@@ -459,8 +460,7 @@
             {
                 "name": "Mercenary Army",
                 "uniques": [
-                    "[Gold] cost of purchasing [Military] units [-33]%",
-                    "Military Units gifted from City-States start with [+15] XP"
+                    "[Gold] cost of purchasing [Military] units [-33]%"
                 ],
                 "requires": ["Mercantilism"],
                 "row": 2,
