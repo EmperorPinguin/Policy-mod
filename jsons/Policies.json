@@ -183,10 +183,8 @@
             {
                 "name": "Military Tradition",
                 "uniques": [
-                    "[+1 Culture] from every [Barracks]",
+                    "[+2 Happiness] from every [Barracks]",
                     "[+100]% Production when constructing [Barracks] buildings [in all cities]",
-                    "[+1 Culture] from every [Armory]",
-                    "[+100]% Production when constructing [Armory] buildings [in all cities]"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
@@ -195,7 +193,7 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+4 Happiness] [in puppeted cities]"
+                    "Upon capturing a city, receive [20] times its [Culture] production as [Culture] immediately",
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
@@ -747,8 +745,7 @@
             "Scientific": 0
         },
         "uniques": [
-            "[-33]% maintenance costs <for [All] units>",
-            "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
+            "[-50]% maintenance costs <for [All] units>",
             "[-10]% Culture cost of adopting new Policies",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>"
