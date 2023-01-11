@@ -56,8 +56,8 @@
             {
                 "name": "Landed Elite",
                 "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
+                    "[+10]% growth [in all cities with a garrison]",
+                    "[+2 Food] [in all cities with a garrison]"
                 ],
                 "requires": ["Legalism"],
                 "row": 2,
@@ -75,7 +75,6 @@
             {
                 "name": "Tradition Complete",
                 "uniques": [
-                    "[+15]% growth [in all cities]",
                     "Provides a [Aqueduct] in your first [4] cities for free",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
@@ -167,7 +166,7 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[+15]% Production when constructing [Melee] units [in all cities]",
+                    "[+15]% Production when constructing [Military] units [in all cities]",
                     "Free [Great General] appears"
                 ],
                 "row": 1,
@@ -176,7 +175,7 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"
+                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Military] unit>"
                 ],
                 "row": 1,
                 "column": 4
@@ -184,9 +183,9 @@
             {
                 "name": "Military Tradition",
                 "uniques": [
-                    "[+2 Happiness] from every [Barracks]",
+                    "[+1 Culture] from every [Barracks]",
                     "[+50]% Production when constructing [Barracks] buildings [in all cities]",
-                    "[+2 Happiness] from every [Armory]",
+                    "[+1 Culture] from every [Armory]",
                     "[+50]% Production when constructing [Armory] buildings [in all cities]"
                 ],
                 "requires": ["Warrior Code"],
@@ -196,7 +195,7 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+3 Culture] [in all cities with a garrison]"
+                    "[+3 Happiness] [in puppeted cities]"
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
