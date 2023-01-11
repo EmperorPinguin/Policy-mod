@@ -184,9 +184,9 @@
                 "name": "Military Tradition",
                 "uniques": [
                     "[+1 Culture] from every [Barracks]",
-                    "[+50]% Production when constructing [Barracks] buildings [in all cities]",
+                    "[+100]% Production when constructing [Barracks] buildings [in all cities]",
                     "[+1 Culture] from every [Armory]",
-                    "[+50]% Production when constructing [Armory] buildings [in all cities]"
+                    "[+100]% Production when constructing [Armory] buildings [in all cities]"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
@@ -195,7 +195,7 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+3 Happiness] [in puppeted cities]"
+                    "[+4 Happiness] [in puppeted cities]"
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
