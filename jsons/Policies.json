@@ -167,7 +167,7 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[+15]% Production when constructing [Military] units [in all cities]",
+                    "[+15]% Production when constructing [Melee] units [in all cities]",
                     "Free [Great General] appears"
                 ],
                 "row": 1,
