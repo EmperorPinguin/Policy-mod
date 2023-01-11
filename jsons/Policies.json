@@ -196,7 +196,7 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+5 Culture] from every [Citadel]"
+                    "[+3 Culture] [in all cities with a garrison]"
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
