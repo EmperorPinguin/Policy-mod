@@ -178,8 +178,8 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"
-                    "[+50]% to Flank Attack bonuses"
+                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Mounted] unit>",
+                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Siege] unit>"
                 ],
                 "row": 1,
                 "column": 4
