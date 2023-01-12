@@ -179,10 +179,8 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+15]% Strength <for [{Land} {Melee}] units> <when adjacent to a [Archery] unit>",
-                    "[+15]% Strength <for [{Land} {Melee}] units> <when adjacent to a [Mounted] unit>",
-                    "[+15]% Strength <for [{Land} {Melee}] units> <when adjacent to a [Ranged Gunpowder] unit>",
-                    "[+15]% Strength <for [{Land} {Melee}] units> <when adjacent to a [Armored] unit>",
+                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Mounted] unit>",
+                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Ranged] unit>"
                 ],
                 "row": 1,
                 "column": 4
