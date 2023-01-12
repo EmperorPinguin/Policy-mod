@@ -56,7 +56,11 @@
             {
                 "name": "Landed Elite",
                 "uniques": [
-                    "[+15]% growth [in all cities with a garrison]",
+                    "[+1 Food] from every [Palace]",
+                    "[+1 Food] from every [Walls]",
+                    "[+1 Food] from every [Castle]",
+                    "[+1 Food] from every [Arsenal]",
+                    "[+1 Food] from every [Military Base]",
                 ],
                 "requires": ["Legalism"],
                 "row": 2,
@@ -74,10 +78,7 @@
             {
                 "name": "Tradition Complete",
                 "uniques": [
-                    "[+1 Food] from every [Walls]",
-                    "[+1 Food] from every [Castle]",
-                    "[+1 Food] from every [Arsenal]",
-                    "[+1 Food] from every [Military Base]",
+                    "[+15]% growth [in all cities with a garrison]",
                     "Provides a [Aqueduct] in your first [4] cities for free",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
