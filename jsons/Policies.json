@@ -198,7 +198,7 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "Upon capturing a city, receive [20] times its [Culture] production as [Culture] immediately",
+                    "Upon capturing a city, receive [10] times its [Science] production as [Culture] immediately",
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
