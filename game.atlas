@@ -76,13 +76,6 @@ PolicyIcons/Free Healthcare
   index: -1
 PolicyIcons/Labour Unions
   rotate: false
-  xy: 642, 4
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Lightning Warfare
-  rotate: false
   xy: 700, 4
   size: 50, 50
   orig: 50, 50
@@ -168,6 +161,20 @@ UnitPromotionIcons/Great Admiral
 PolicyIcons/Navigation School
   rotate: false
   xy: 584, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ignore Zone of Control
+  rotate: false
+  xy: 642, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Lightning Warfare
+  rotate: false
+  xy: 642, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
