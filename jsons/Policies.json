@@ -395,9 +395,9 @@
                 "column": 5
             },
             {
-                "name": "Artistic Genius",
+                "name": "Cultural Exchange",
                 "uniques": [
-                    "[+3 Science] from every [Artist]",
+                    "When declaring friendship, both parties gain a [25]% boost to great person generation"
                 ],
                 "requires": ["Cultural Centers"],
                 "row": 2,
@@ -413,11 +413,11 @@
                 "column": 4
             },
             {
-                "name": "Cultural Exchange",
+                "name": "Artistic Genius",
                 "uniques": [
-                    "When declaring friendship, both parties gain a [25]% boost to great person generation"
+                    "[+3 Science] from every [Artist]",
                 ],
-                "requires": ["Artistic Genius"],
+                "requires": ["Cultural Exchange"],
                 "row": 3,
                 "column": 2
             },
