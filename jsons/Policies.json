@@ -9,9 +9,9 @@
 //Commerce|10|10|10|10|10
 //Exploration|10|10|10|10|10
 //Rationalism|10|10|10|10|20
-//Freedom|50|50|0|0|0
-//Autocracy|50|0|0|50|0
-//Order|50|0|50|0|50
+//Freedom|20|20|0|0|0
+//Autocracy|20|0|0|20|0
+//Order|20|0|20|0|20
     {
         "name": "Tradition",
         "era": "Ancient era",
@@ -103,7 +103,6 @@
                 "row": 1,
                 "column": 1
             },
-
             {
                 "name": "Citizenship",
                 "uniques": [
@@ -169,7 +168,7 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[+15]% Production when constructing [Military] units [in all cities]",
+                    "[+15]% Production when constructing [Melee] units [in all cities]",
                     "Free [Great General] appears"
                 ],
                 "row": 1,
@@ -196,7 +195,8 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "Upon capturing a city, receive [10] times its [Science] production as [Culture] immediately",
+                    "[-25]% Culture cost of natural border growth [in all cities]"
+                    "Gain [50] [Culture] <upon conquering a city>"
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
@@ -233,8 +233,9 @@
             "Scientific": 10
         },
         "uniques": [
-            "[+100]% Production when constructing [Faith] buildings [in all cities]",
-            "[+100]% Production when constructing [Faith] wonders [in all cities]"
+		"[+100]% Production when constructing [Shrine] buildings [in all cities]",
+		"[+100]% Production when constructing [Temple] buildings [in all cities]",
+		"[+100]% Production when constructing [Grand Temple] wonders [in all cities]"
         ],
         "policies": [
             {
@@ -250,7 +251,8 @@
             {
                 "name": "Mandate Of Heaven",
                 "uniques": [
-                    "[+2 Culture] [in all cities] <while the empire is happy>"
+                    "[+1 Happiness] from every [Shrine]",
+                    "[+1 Happiness] from every [Temple]",
                 ],
                 "row": 1,
                 "column": 5
@@ -268,8 +270,9 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "May choose [1] additional belief(s) of any type when [enhancing] a religion",
-                    "Free [Great Prophet] appears"
+                    "Gain a free [Enhancer] belief <upon founding a religion>",
+                    "Gain a free [Enhancer] belief <after founding a religion>",
+                    "Empire enters golden age"
                 ],
                 "requires": ["Organized Religion"],
                 "row": 2,
@@ -278,8 +281,8 @@
             {
                 "name": "Free Religion",
                 "uniques": [
-                    "[+1 Happiness] from every [Shrine]",
-                    "[+1 Happiness] from every [Temple]",
+                    "[+1 Culture] from every [Shrine]",
+                    "[+1 Culture] from every [Temple]",
                     "[+3 Culture] from every [Holy site]"
                 ],
                 "requires": ["Mandate Of Heaven", "Reformation"],
@@ -289,8 +292,8 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "[+1 Food] from every [Shrine]",
-                    "[+1 Food] from every [Temple]",
+                "Provides a [Garden] in your first [4] cities for free",
+		"Free [Great Prophet] appears"
                 ]
             }
         ]
@@ -453,9 +456,7 @@
             {
                 "name": "Trade Unions",
                 "uniques": [
-                    "[-33]% maintenance on road & railroads",
-                    "[+1 Gold] from every [Market]",
-                    "[+1 Gold] from every [Bank]"
+                    "[-50]% maintenance on road & railroads",
                 ],
                 "row": 1,
                 "column": 4
@@ -556,7 +557,7 @@
             {
                 "name": "Colonialism",
                 "uniques": [
-                    "[+2 Food, +4 Gold] from every [Plantation] <on foreign continents>"
+                    "[+2 Food, +4 Gold] from every [Plantation]"
                 ],
                 "requires": ["Merchant Navy", "Navigation School"],
                 "row": 3,
@@ -639,15 +640,14 @@
         "name": "Freedom",
         "era": "Industrial era",
         "priorities": {
-            "Neutral": 50,
-            "Cultural": 50,
+            "Neutral": 20,
+            "Cultural": 20,
             "Diplomatic": 0,
             "Domination": 0,
             "Scientific": 0
         },
         "uniques": [
             "[+25]% Great Person generation [in all cities]",
-            "[-10]% Culture cost of adopting new Policies",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Order]>"
         ],
@@ -744,15 +744,14 @@
         "name": "Autocracy",
         "era": "Industrial era",
         "priorities": {
-            "Neutral": 50,
+            "Neutral": 20,
             "Cultural": 0,
             "Diplomatic": 0,
-            "Domination": 50,
+            "Domination": 20,
             "Scientific": 0
         },
         "uniques": [
             "[-50]% maintenance costs <for [All] units>",
-            "[-10]% Culture cost of adopting new Policies",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>"
         ],
@@ -858,15 +857,14 @@
         "name": "Order",
         "era": "Industrial era",
         "priorities": {
-            "Neutral": 50,
+            "Neutral": 20,
             "Cultural": 0,
-            "Diplomatic": 50,
+            "Diplomatic": 20,
             "Domination": 0,
-            "Scientific": 50
+            "Scientific": 20
         },
         "uniques": [
             "[+1 Happiness] [in all cities]",
-            "[-10]% Culture cost of adopting new Policies",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>"
         ],
