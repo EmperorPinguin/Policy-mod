@@ -243,7 +243,6 @@
                 "uniques": [
                     "[+1 Faith] from every [Shrine]",
                     "[+1 Faith] from every [Temple]",
-                    "[Faith] cost of purchasing items in cities [-20]%",
                 ],
                 "row": 1,
                 "column": 2
@@ -251,8 +250,7 @@
             {
                 "name": "Mandate Of Heaven",
                 "uniques": [
-                    "[+1 Happiness] from every [Shrine]",
-                    "[+1 Happiness] from every [Temple]",
+                    "[Faith] cost of purchasing items in cities [-20]%",
                 ],
                 "row": 1,
                 "column": 5
@@ -260,7 +258,7 @@
             {
                 "name": "Theocracy",
                 "uniques": [
-                    "[+10]% [Gold] from every [Temple]",
+                    "[+25]% [Gold] from every [Temple]",
                     "[+3 Gold] from every [Holy site]"
                 ],
                 "requires": ["Organized Religion"],
@@ -281,9 +279,10 @@
             {
                 "name": "Free Religion",
                 "uniques": [
-                    "[+1 Culture] from every [Shrine]",
-                    "[+1 Culture] from every [Temple]",
+                    "Gain a free [Pantheon] belief <upon founding a religion>",
+                    "Gain a free [Pantheon] belief <after founding a religion>",
                     "[+3 Culture] from every [Holy site]"
+
                 ],
                 "requires": ["Mandate Of Heaven", "Reformation"],
                 "row": 3,
@@ -292,7 +291,7 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                "Provides a [Garden] in your first [4] cities for free",
+		"Provides a [Garden] in your first [4] cities for free",
 		"Free [Great Prophet] appears"
                 ]
             }
@@ -427,7 +426,7 @@
             {
                 "name": "Aesthetics Complete",
                 "uniques": [
-                    "[+6 Culture] from every [Landmark]",
+                    "[+4 Culture] from every [Landmark]",
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
