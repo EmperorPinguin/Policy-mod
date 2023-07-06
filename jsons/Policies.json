@@ -9,9 +9,9 @@
 //Commerce|10|10|10|10|10
 //Exploration|10|10|10|10|10
 //Rationalism|10|10|10|10|20
-//Freedom|20|20|0|0|0
-//Autocracy|20|0|0|20|0
-//Order|20|0|20|0|20
+//Freedom|50|50|40|40|40
+//Autocracy|50|40|40|50|40
+//Order|50|40|50|40|50
     {
         "name": "Tradition",
         "era": "Ancient era",
@@ -152,11 +152,11 @@
         "name": "Honor",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 0,
-            "Cultural": 0,
+            "Neutral": 10,
+            "Cultural": 10,
             "Diplomatic": 10,
-            "Domination": 10,
-            "Scientific": 0
+            "Domination": 20,
+            "Scientific": 10
         },
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>",
