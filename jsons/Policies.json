@@ -381,7 +381,7 @@
                 "column": 2
             },
             {
-                "name": "Architectural Wonders",
+                "name": "Monumentality",
                 "uniques": [
                     "[+33]% [Culture] [in all cities with a world wonder]",
                     "Empire enters golden age"
@@ -403,7 +403,7 @@
                 "uniques": [
                     "[+1 Gold] from all [Culture] buildings"
                 ],
-                "requires": ["Cultural Centers", "Architectural Wonders"],
+                "requires": ["Cultural Centers", "Monumentality"],
                 "row": 2,
                 "column": 4
             },
