@@ -776,7 +776,7 @@
             {
                 "name": "United Front",
                 "uniques": [
-                    "[+15]% Production when constructing [All] units [in all cities connected to capital]"
+                    "[+50]% Production when constructing [Armored] units [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
