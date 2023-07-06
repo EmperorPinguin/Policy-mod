@@ -450,8 +450,18 @@
                 "uniques": [
                     "[-50]% maintenance on road & railroads",
                 ],
-                "row": 1,
-                "column": 4
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Entrepreneurship",
+                "uniques": [
+                    "[+100]% Gold from Great Merchant trade missions",
+                    "Free [Great Merchant] appears"
+                ],
+                "requires": ["Mercenary Army"],
+                "row": 2,
+                "column": 1
             },
             {
                 "name": "Mercantilism",
@@ -463,25 +473,15 @@
                     "[+1 Science] from every [Stock Exchange]"
                 ],
                 "requires": ["Trade Unions"],
-                "row": 1,
+                "row": 3,
                 "column": 2
-            },
-            {
-                "name": "Entrepreneurship",
-                "uniques": [
-                    "[+100]% Gold from Great Merchant trade missions",
-                    "Free [Great Merchant] appears"
-                ],
-                "requires": ["Mercenary Army"],
-                "row": 2,
-                "column": 4
             },
             {
                 "name": "Protectionism",
                 "uniques": ["[+2] Happiness from each type of luxury resource"],
                 "requires": ["Mercantilism"],
                 "row": 3,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Commerce Complete",
