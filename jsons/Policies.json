@@ -268,8 +268,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "Gain a free [Enhancer] belief <upon founding a religion>",
-                    "Gain a free [Enhancer] belief <after founding a religion>",
+                    "Gain a free [Enhancer] belief",
                     "Empire enters golden age"
                 ],
                 "requires": ["Organized Religion"],
@@ -279,8 +278,7 @@
             {
                 "name": "Free Religion",
                 "uniques": [
-                    "Gain a free [Pantheon] belief <upon founding a religion>",
-                    "Gain a free [Pantheon] belief <after founding a religion>",
+                    "Gain a free [Pantheon] belief",
                     "[+3 Culture] from every [Holy site]"
 
                 ],
