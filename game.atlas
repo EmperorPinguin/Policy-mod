@@ -11,98 +11,98 @@ PolicyIcons/Aerospace Engineering
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Architectural Wonders
+PolicyIcons/Artistic Genius
   rotate: false
   xy: 62, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Artistic Genius
+PolicyIcons/Capitalism
   rotate: false
   xy: 120, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Capitalism
+PolicyIcons/Colonialism
   rotate: false
   xy: 178, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Colonialism
+PolicyIcons/Consulates
   rotate: false
   xy: 236, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Consulates
+PolicyIcons/Cultural Centers
   rotate: false
   xy: 294, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Cultural Centers
+PolicyIcons/Cultural Exchange
   rotate: false
   xy: 352, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Cultural Exchange
+PolicyIcons/Entrepreneurship
   rotate: false
   xy: 410, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Entrepreneurship
+PolicyIcons/Free Healthcare
   rotate: false
   xy: 468, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Free Healthcare
-  rotate: false
-  xy: 526, 4
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
 PolicyIcons/Labour Unions
   rotate: false
-  xy: 700, 4
+  xy: 642, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Maritime Infrastructure
   rotate: false
-  xy: 758, 4
+  xy: 700, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Mercenary Army
   rotate: false
-  xy: 816, 4
+  xy: 758, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Military-Industrial Complex
   rotate: false
-  xy: 874, 4
+  xy: 816, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Mobilization
+  rotate: false
+  xy: 874, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Monumentality
   rotate: false
   xy: 932, 4
   size: 50, 50
@@ -153,28 +153,28 @@ PolicyIcons/Volunteer Army
   index: -1
 UnitPromotionIcons/Great Admiral
   rotate: false
-  xy: 584, 4
+  xy: 526, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Navigation School
   rotate: false
-  xy: 584, 4
+  xy: 526, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ignore Zone of Control
   rotate: false
-  xy: 642, 4
+  xy: 584, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Lightning Warfare
   rotate: false
-  xy: 642, 4
+  xy: 584, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
