@@ -448,7 +448,8 @@
             {
                 "name": "Trade Unions",
                 "uniques": [
-                    "[-50]% maintenance on road & railroads",
+                    "[+2 Gold] from each Trade Route",
+                    "[-50]% maintenance on road & railroads"
                 ],
                 "row": 1,
                 "column": 4
@@ -530,7 +531,8 @@
                 "uniques": [
                     "[+2 Gold] from every [Lighthouse]",
                     "[+2 Gold] from every [Harbor]",
-                    "[+2 Gold] from every [Seaport]"
+                    "[+2 Gold] from every [Seaport]",
+                    "[+4 Production, +4 Culture] from every [National Treasury]",
                 ],
                 "requires": ["Naval Tradition","Maritime Infrastructure"],
                 "row": 2,
@@ -549,7 +551,8 @@
             {
                 "name": "Colonialism",
                 "uniques": [
-                    "[+2 Food, +4 Gold] from every [Plantation]"
+                    "[+2] population [in all cities] <on foreign continents>",
+                    "[+2 Happiness] [in all cities] <on foreign continents>"
                 ],
                 "requires": ["Merchant Navy"],
                 "row": 3,
