@@ -1,14 +1,14 @@
 [
 //Name|Neutral|Culture|Diplomatic|Domination|Scientific
-//Tradition|10|20|10|10|10
-//Liberty|10|10|10|10|20
-//Honor|10|10|10|20|10
-//Piety|10|10|10|10|10
-//Aesthetics|10|20|10|10|10
-//Patronage|10|10|20|10|10
+//Tradition|0|10|0|0|10
+//Liberty|0|0|10|10|10
+//Honor|0|0|10|10|0
+//Piety|0|10|10|10|0
+//Aesthetics|0|20|0|0|10
+//Patronage|0|10|20|0|10
 //Commerce|10|10|10|10|10
-//Exploration|10|10|10|10|10
-//Rationalism|10|10|10|10|20
+//Exploration|0|0|0|10|10
+//Rationalism|10|10|10|10|60
 //Freedom|50|50|40|40|40
 //Autocracy|50|40|40|50|40
 //Order|50|40|50|40|50
@@ -16,10 +16,10 @@
         "name": "Tradition",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 10,
-            "Cultural": 20,
-            "Diplomatic": 10,
-            "Domination": 10,
+            "Neutral": 0,
+            "Cultural": 10,
+            "Diplomatic": 0,
+            "Domination": 0,
             "Scientific": 10
         },
         "uniques": [
@@ -86,11 +86,11 @@
         "name": "Liberty",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 10,
-            "Cultural": 10,
+            "Neutral": 0,
+            "Cultural": 0,
             "Diplomatic": 10,
             "Domination": 10,
-            "Scientific": 20
+            "Scientific": 10
         },
         "uniques": ["[+1 Culture] [in all cities]"],
         "policies": [
@@ -152,11 +152,11 @@
         "name": "Honor",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 10,
-            "Cultural": 10,
+            "Neutral": 0,
+            "Cultural": 0,
             "Diplomatic": 10,
-            "Domination": 20,
-            "Scientific": 10
+            "Domination": 10,
+            "Scientific": 0
         },
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>",
@@ -225,11 +225,11 @@
         "name": "Piety",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 10,
+            "Neutral": 0,
             "Cultural": 10,
             "Diplomatic": 10,
             "Domination": 10,
-            "Scientific": 10
+            "Scientific": 0
         },
         "uniques": [
 		"[+100]% Production when constructing [Shrine] buildings [in all cities]",
@@ -295,10 +295,10 @@
         "name": "Patronage",
         "era": "Classical era",
         "priorities": {
-            "Neutral": 10,
+            "Neutral": 0,
             "Cultural": 10,
             "Diplomatic": 20,
-            "Domination": 10,
+            "Domination": 0,
             "Scientific": 10
         },
         "uniques": ["[-25]% City-State Influence degradation"],
@@ -360,10 +360,10 @@
         "name": "Aesthetics",
         "era": "Classical era",
         "priorities": {
-            "Neutral": 10,
+            "Neutral": 0,
             "Cultural": 20,
-            "Diplomatic": 10,
-            "Domination": 10,
+            "Diplomatic": 0,
+            "Domination": 0,
             "Scientific": 10
         },
         "uniques": ["[+15]% [Culture] <while the empire is happy>"],
@@ -496,9 +496,9 @@
         "name": "Exploration",
         "era": "Medieval era",
         "priorities": {
-            "Neutral": 10,
-            "Cultural": 10,
-            "Diplomatic": 10,
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 0,
             "Domination": 10,
             "Scientific": 10
         },
@@ -567,11 +567,11 @@
         "name": "Rationalism",
         "era": "Renaissance era",
         "priorities": {
-            "Neutral": 10,
+            "Neutral": 0,
             "Cultural": 10,
             "Diplomatic": 10,
             "Domination": 10,
-            "Scientific": 20
+            "Scientific": 60
         },
         "uniques": [
             "[+15]% [Science] <while the empire is happy>"
