@@ -392,7 +392,7 @@
             {
                 "name": "Cultural Exchange",
                 "uniques": [
-                    "When declaring friendship, both parties gain a [25]% boost to great person generation"
+                    "When declaring friendship, both parties gain a [15]% boost to great person generation"
                 ],
                 "requires": ["Cultural Centers"],
                 "row": 2,
@@ -410,7 +410,7 @@
             {
                 "name": "Artistic Genius",
                 "uniques": [
-                    "[+3 Science] from every [Artist]",
+                    "Free [Great Artist] appears"
                 ],
                 "requires": ["Cultural Exchange"],
                 "row": 3,
@@ -419,7 +419,7 @@
             {
                 "name": "Aesthetics Complete",
                 "uniques": [
-                    "[+4 Culture] from every [Landmark]",
+                    "[+3 Science] from every [Artist]",
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
