@@ -448,7 +448,6 @@
             {
                 "name": "Trade Unions",
                 "uniques": [
-                    "[+2 Gold] from each Trade Route",
                     "[-50]% maintenance on road & railroads"
                 ],
                 "row": 1,
