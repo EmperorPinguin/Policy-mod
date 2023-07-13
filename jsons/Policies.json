@@ -419,7 +419,7 @@
             {
                 "name": "Aesthetics Complete",
                 "uniques": [
-                    "[+3 Science] from every [Artist]",
+                    "Provides a [Garden] in your first [4] cities for free",
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
@@ -448,6 +448,7 @@
             {
                 "name": "Trade Unions",
                 "uniques": [
+                    "[+1 Gold] from each Trade Route",
                     "[-50]% maintenance on road & railroads"
                 ],
                 "row": 1,
