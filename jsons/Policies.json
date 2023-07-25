@@ -631,7 +631,7 @@
             }
         ]
     },
-    {
+/*    {
         "name": "Freedom",
         "era": "Industrial era",
         "priorities": {
@@ -830,7 +830,7 @@
         ]
     }
 //These need to be reworked
-/*
+*/
     {
         "name": "Freedom",
         "era": "Industrial era",
@@ -1159,5 +1159,5 @@
                 ]
             }
         ]
-    }*/
+    }
 ]
