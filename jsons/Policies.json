@@ -185,7 +185,6 @@
                 "name": "Military Tradition",
                 "uniques": [
                     "[+50]% XP gained from combat <for [Military] units>",
-                    "[Great General] is earned [50]% faster"
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
@@ -207,7 +206,7 @@
                     "[+100]% Production when constructing [Barracks] buildings [in all cities]",
                     "[+100]% Production when constructing [Armory] buildings [in all cities]",
                     "[+100]% Production when constructing [Military Academy] buildings [in all cities]",
-                ],
+		],
                 "requires": ["Military Caste"],
                 "row": 3,
                 "column": 4
@@ -285,7 +284,7 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-		"[+3 Culture] from every [Holy site]"
+		"[+3 Culture] from every [Holy site]",
 		"Free [Great Prophet] appears"
                 ]
             }
@@ -322,7 +321,7 @@
             {
                 "name": "Scholasticism",
                 "uniques": [
-                    "Allied City-States provide [Science] equal to [50]% of what they produce for themselves"
+                    "Allied City-States provide [Science] equal to [100]% of what they produce for themselves"
                 ],
                 "requires": ["Philantropy"],
                 "row": 2,
