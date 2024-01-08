@@ -1,180 +1,215 @@
 
 game.png
-size: 2048, 64
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 PolicyIcons/Aerospace Engineering
   rotate: false
-  xy: 4, 4
+  xy: 4, 390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Artistic Genius
   rotate: false
-  xy: 62, 4
+  xy: 1030, 392
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Capitalism
   rotate: false
-  xy: 120, 4
+  xy: 1712, 690
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Colonialism
   rotate: false
-  xy: 178, 4
+  xy: 1992, 970
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Consulates
   rotate: false
-  xy: 236, 4
+  xy: 4, 332
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Cultural Centers
   rotate: false
-  xy: 294, 4
+  xy: 62, 390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Cultural Exchange
   rotate: false
-  xy: 352, 4
+  xy: 1030, 334
   size: 50, 50
   orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Diplomatic Marriage
+  rotate: false
+  xy: 1162, 478
+  size: 542, 542
+  orig: 542, 542
+  offset: 0, 0
+  index: -1
+PolicyIcons/Divine Rule
+  rotate: false
+  xy: 584, 450
+  size: 570, 570
+  orig: 570, 570
   offset: 0, 0
   index: -1
 PolicyIcons/Entrepreneurship
   rotate: false
-  xy: 410, 4
+  xy: 1088, 392
   size: 50, 50
   orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Feudalism
+  rotate: false
+  xy: 584, 4
+  size: 438, 438
+  orig: 438, 438
   offset: 0, 0
   index: -1
 PolicyIcons/Free Healthcare
   rotate: false
-  xy: 468, 4
+  xy: 1712, 632
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
+PolicyIcons/Imperialism
+  rotate: false
+  xy: 4, 448
+  size: 572, 572
+  orig: 572, 572
+  offset: 0, 0
+  index: -1
+PolicyIcons/Knightly Order
+  rotate: false
+  xy: 1712, 748
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
 PolicyIcons/Labour Unions
   rotate: false
-  xy: 642, 4
+  xy: 4, 274
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Maritime Infrastructure
   rotate: false
-  xy: 700, 4
+  xy: 62, 332
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Mercenary Army
   rotate: false
-  xy: 758, 4
+  xy: 120, 390
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Military-Industrial Complex
   rotate: false
-  xy: 816, 4
+  xy: 1030, 276
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Mobilization
   rotate: false
-  xy: 874, 4
+  xy: 1088, 334
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Monumentality
   rotate: false
-  xy: 932, 4
+  xy: 1712, 574
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/New Deal
   rotate: false
-  xy: 990, 4
+  xy: 1770, 632
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Patriotism
   rotate: false
-  xy: 1048, 4
+  xy: 1828, 690
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Proletarian Internationalism
   rotate: false
-  xy: 1106, 4
+  xy: 1992, 854
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Resettlement
   rotate: false
-  xy: 1164, 4
+  xy: 4, 216
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Tourism Destination
   rotate: false
-  xy: 1222, 4
+  xy: 62, 274
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Volunteer Army
   rotate: false
-  xy: 1280, 4
+  xy: 120, 332
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Great Admiral
   rotate: false
-  xy: 526, 4
+  xy: 1770, 690
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Navigation School
   rotate: false
-  xy: 526, 4
+  xy: 1770, 690
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ignore Zone of Control
   rotate: false
-  xy: 584, 4
+  xy: 1992, 912
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Lightning Warfare
   rotate: false
-  xy: 584, 4
+  xy: 1992, 912
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

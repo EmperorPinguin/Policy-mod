@@ -5,8 +5,13 @@ Capitalism: currency by Laura
 Consulates: School by David Khai
 Cultural Centers: Flourish by Nugraha Wira Menggala
 Cultural Exchange: exchange by Markus
+Diplomatic Marriage: marriage by hunotika
+Divine Rule: wings by Adrien Coquet
 Entreprenearship: stock trader by Jose Dean
+Feudalism: Castle by Nikita Kozin
 Free Healthcare: Healthcare by Gregor Cresnar
+Imerialism: Death Star by Steve Morris
+Knightly Order: Templar Cross by Susmit Pimpalkar
 Mercenary Army: double axe by Vectors Market
 Maritime Infrastructure: Lighthouse by emka angelina
 Military Industry: Gears by Gregor Cresnar
@@ -17,6 +22,7 @@ Proletarian Internationalism: Protest by Cristopher T. Howlett
 Resettlement: GPS by YANDI RS
 Tourism Destination: Airplane by Rainbow Designs
 Volunteer Army: soldier by Wonmo Kang
+
 
 Images that come from the base game:
 Artistic Genius - Great Artist
