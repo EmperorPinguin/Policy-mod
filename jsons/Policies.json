@@ -667,7 +667,7 @@
             {
                 "name": "Civil Society",
                 "uniques": [
-                    "[-50]% Food consumption by specialists [in all cities]"
+                    "[-50]% Food consumption by [Specialists] [in all cities]"
                 ],
                 "row": 1,
                 "column": 5
@@ -730,7 +730,7 @@
             {
                 "name": "Fascism",
                 "uniques": [
-                    "Quantity of strategic resources produced by the empire +[100]%",
+                    "[+100]% [Strategic] resource production",
                     "[+2] Movement <for [Great General] units>"
                 ],
                 "requires": ["Populism", "Militarism"],
@@ -751,7 +751,7 @@
                 "name": "Total War",
                 "uniques": [
                     "[+25]% Production when constructing [Military] units [in all cities]",
-                    "New [Military] units start with [15] Experience [in all cities]"
+                    "New [Military] units start with [15] XP [in all cities]"
                 ],
                 "requires": ["Police State", "Fascism"],
                 "row": 3,
@@ -810,7 +810,7 @@
                 "name": "Socialism",
                 "requires": ["Planned Economy"],
                 "uniques": [
-                    "[-15]% maintenance cost for buildings [in all cities]"
+                    "[-15]% maintenance cost for [all] buildings [in all cities]"
                 ],
                 "row": 2,
                 "column": 3
@@ -871,7 +871,7 @@
             {
                 "name": "Civil Society",
                 "uniques": [
-                    "[-50]% Food consumption by specialists [in all cities]"
+                    "[-50]% Food consumption by [Specialists] [in all cities]"
                 ],
                 "row": 1,
                 "column": 5
@@ -994,7 +994,7 @@
             {
                 "name": "Fascism",
                 "uniques": [
-                    "Quantity of strategic resources produced by the empire +[100]%",
+                    "[+100]% [Strategic] resource production",
                     "[+3] Movement <for [Great General] units>"
                 ],
                 "requires": ["Populism", "Militarism"],
@@ -1027,7 +1027,7 @@
                 "name": "Total War",
                 "uniques": [
                     "[+25]% Production when constructing [Military] units [in all cities]",
-                    "New [Military] units start with [15] Experience [in all cities]"
+                    "New [Military] units start with [15] XP [in all cities]"
                 ],
                 "requires": ["Mobilization", "Fascism"],
                 "row": 3,
@@ -1110,7 +1110,7 @@
                 "name": "Socialism",
                 "requires": ["Planned Economy"],
                 "uniques": [
-                    "[-15]% maintenance cost for buildings [in all cities]"
+                    "[-15]% maintenance cost for [all] buildings [in all cities]"
                 ],
                 "row": 2,
                 "column": 3
