@@ -48,7 +48,7 @@
                 "name": "Oligarchy",
                 "uniques": [
                     "Units in cities cost no Maintenance",
-		    "[+1 Happiness] [in all cities with a garrison]",	
+				    "[+1 Happiness] [in all cities with a garrison]",	
                     "[+50]% Strength for cities <with a garrison> <when attacking>"
                 ],
                 "row": 1,
@@ -546,8 +546,7 @@
             {
                 "name": "Navigation School",
                 "uniques": [
-                    "[Great General] units gain the [Great Admiral] promotion",
-                    "Free [Great General] appears"
+                    "Free [Great Admiral] appears"
                 ],
                 "requires": ["Naval Tradition"],
                 "row": 2,
