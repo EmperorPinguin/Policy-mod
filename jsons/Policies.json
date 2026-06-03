@@ -267,7 +267,7 @@
             {
                 "name": "Free Religion",
                 "uniques": [
-                    "Gain a free [Pantheon] belief <<after founding a religion>",
+                    "Gain a free [Pantheon] belief <after founding a religion>",
 					"Gain a free [Enhancer] belief <upon founding a Religion>"
 					
                 ],
