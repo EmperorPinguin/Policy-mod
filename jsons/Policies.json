@@ -267,8 +267,8 @@
             {
                 "name": "Free Religion",
                 "uniques": [
-                    "Gain a free [Pantheon] belief <after founding a religion>",
-					"Gain a free [Pantheon] belief <upon founding a religion>",
+                    "Gain a free [Pantheon] belief <<after founding a religion>",
+					"Gain a free [Enhancer] belief <upon founding a Religion>"
 					
                 ],
                 "requires": ["Organized Religion"],
@@ -279,7 +279,7 @@
                 "name": "Reformation",
                 "uniques": [
                     "Gain a free [Enhancer] belief <after founding a religion>",
-					"Gain a free [Enhancer] belief <upon founding a religion>"
+					"Gain a free [Enhancer] belief <upon founding a Religion>"
                 ],
                 "requires": ["Free Religion"],
                 "row": 3,
@@ -557,8 +557,8 @@
             {
                 "name": "Colonialism",
                 "uniques": [
-                    "[+2] population [in all cities] <on foreign continents>",
-                    "[+2 Happiness] [in all cities] <on foreign continents>"
+                    "[+20]% Production when constructing [All] buildings [in all cities] <on foreign continents>",
+                    "[+20]% growth [in all cities] <on foreign continents>",
                 ],
                 "requires": ["Merchant Navy"],
                 "row": 3,
