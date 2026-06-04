@@ -249,7 +249,7 @@
             {
                 "name": "Mandate Of Heaven",
                 "uniques": [
-                    "[Faith] cost of purchasing items in cities [-25]%",
+                    "[Faith] cost of purchasing items in cities [-20]%",
                 ],
                 "row": 1,
                 "column": 5
@@ -257,8 +257,7 @@
             {
                 "name": "Theocracy",
                 "uniques": [
-                    "[+25]% [Gold] from every [Temple]",
-                    "[+3 Gold] from every [Holy site]"
+                    "[+25]% [Gold] from every [Temple]"
                 ],
                 "requires": ["Organized Religion"],
                 "row": 2,
@@ -278,8 +277,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "Gain a free [Enhancer] belief <after founding a religion>",
-					"Gain a free [Enhancer] belief <upon founding a Religion>"
+                    "[+1 Production, +1 Food, +1 Gold, +1 Science, +1 Culture, +1 Faith] from every [Great Improvement]"
                 ],
                 "requires": ["Free Religion"],
                 "row": 3,
@@ -288,8 +286,8 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-		"[+3 Culture] from every [Holy site]",
-		"Free [Great Prophet] appears"
+					"Provides a [Garden] in your first [5] cities for free",
+					"Free [Great Prophet] appears"
                 ]
             }
         ]
