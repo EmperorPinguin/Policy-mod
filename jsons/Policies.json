@@ -278,7 +278,7 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "[+1 Production, +1 Food, +1 Gold, +1 Science, +1 Culture, +1 Faith] from every [Great Improvement]"
+                    "[+1 Production, +1 Food, +1 Gold, +1 Science, +1 Culture, +1 Faith] from every [Great Improvement]",
                 ],
                 "requires": ["Free Religion"],
                 "row": 3,
@@ -418,9 +418,7 @@
                 "name": "Artistic Genius",
                 "uniques": [
                     "Free [Great Artist] appears",
-					"Empire enters golden age"
-
-
+                    "[+100]% Yield from every [Landmark]"
                 ],
                 "requires": ["Cultural Exchange"],
                 "row": 3,
