@@ -194,7 +194,8 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+2 Happiness, +2 Culture] [in all cities with a garrison]"
+                    "[+1 Happiness, +2 Culture] [in all cities with a garrison]",
+					"[+1 Happiness, +2 Culture] from every [Courthouse]",
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
@@ -207,6 +208,7 @@
                     "[+100]% Production when constructing [Barracks] buildings [in all cities]",
                     "[+100]% Production when constructing [Armory] buildings [in all cities]",
                     "[+100]% Production when constructing [Military Academy] buildings [in all cities]",
+					"[+100]% Production when constructing [Courthouse] buildings [in all cities]",
 		],
                 "requires": ["Military Caste"],
                 "row": 3,
