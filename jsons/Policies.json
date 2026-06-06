@@ -193,8 +193,9 @@
             {
                 "name": "Military Caste",
                 "uniques": [
+					"Units in cities cost no Maintenance",
                     "[+1 Happiness, +2 Culture] [in all cities with a garrison]",
-					"[+1 Happiness, +2 Culture] from every [Courthouse]",
+					"[+2 Happiness, +2 Production, +2 Food] from every [Courthouse]",
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
@@ -389,6 +390,7 @@
                 "name": "Monumentality",
                 "uniques": [
                     "[+33]% [Culture] [in all cities with a world wonder]",
+					"Empire enters golden age",
                 ],
                 "row": 1,
                 "column": 5
@@ -396,7 +398,7 @@
             {
                 "name": "Cultural Exchange",
                 "uniques": [
-                    "When declaring friendship, both parties gain a [20]% boost to great person generation"
+                    "When declaring friendship, both parties gain a [20]% boost to great person generation",
                 ],
                 "requires": ["Cultural Centers"],
                 "row": 2,
@@ -418,7 +420,6 @@
                 "name": "Artistic Genius",
                 "uniques": [
                     "Free [Great Artist] appears",
-                    "[+100]% Yield from every [Landmark]"
                 ],
                 "requires": ["Cultural Exchange"],
                 "row": 3,
@@ -547,7 +548,9 @@
             {
                 "name": "Navigation School",
                 "uniques": [
-                    "Free [Great Admiral] appears"
+                    "Free [Great Admiral] appears",
+					"[+2] Movement <for [Great Admiral] units>",
+					"[+1] Movement <for [Embarked] units>",
                 ],
                 "requires": ["Naval Tradition"],
                 "row": 2,
@@ -566,7 +569,8 @@
             {
                 "name": "Exploration Complete",
                 "uniques": [
-                    "[+3 Science, +3 Culture] [in all coastal cities]"
+                    "[+3 Science, +3 Culture] [in all coastal cities]",
+					"May buy [Great Admiral] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
                 ]
@@ -689,7 +693,8 @@
             {
                 "name": "Freedom Complete",
                 "uniques": [
-                    "[+100]% Yield from every [Great Improvement]"
+                    "[+100]% Yield from every [Great Improvement]",
+					"[+50]% Golden Age length"
                 ]
             }
         ]
@@ -720,9 +725,12 @@
             {
                 "name": "Militarism",
                 "uniques": [
+					"[Gold] cost of purchasing [Military] units [-33]%",
                     "[+1 Happiness] from every [Barracks]",
                     "[+1 Happiness] from every [Armory]",
-                    "[+1 Happiness] from every [Military Academy]"],
+                    "[+1 Happiness] from every [Military Academy]",
+				],
+				
                 "row": 1,
                 "column": 4
             },
@@ -739,7 +747,7 @@
             {
                 "name": "Police State",
                 "uniques": [
-                    "[Gold] cost of purchasing [Military] units [-33]%",
+					"[+3 Happiness] from every [Courthouse]",
                     "[Gold] cost of purchasing [Courthouse] buildings [-50]%"
                 ],
                 // There are also some uniques regarding espoinage, which as of this writing is not yet implemented
@@ -784,8 +792,10 @@
             {
                 "name": "United Front",
                 "uniques": [
-                    "Influence of all other civilizations with all city-states degrades [50]% faster",
-                    "Triggers the following global alert: [Our influence with City-States has started dropping faster!]"
+                    "[+1 Happiness, +1 Production] from every [Walls]",
+					"[+1 Happiness, +1 Production] from every [Castle]",
+					"[+1 Happiness, +1 Production] from every [Arsenal]",
+					"[+1 Happiness, +1 Production] from every [Military Base]"
                 ],
                 "row": 1,
                 "column": 1
