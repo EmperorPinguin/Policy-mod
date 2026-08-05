@@ -862,7 +862,7 @@
 					"Science gained from research agreements [+50]%"
                 ],
                 "row": 1,
-                "column": 1
+                "column": 4
             },
             {
                 "name": "Military Alliance",
@@ -870,7 +870,7 @@
 					"Militaristic City-States grant units [2] times as fast when you are at war with a common nation"
                 ],
                 "row": 1,
-                "column": 4
+                "column": 1
             },
             {
                 "name": "Cultural Exchange",
