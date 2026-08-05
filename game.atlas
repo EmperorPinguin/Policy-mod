@@ -1,215 +1,256 @@
 
 game.png
-size: 2048, 1024
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Divine Rule
+  rotate: false
+  xy: 1212, 78
+  size: 570, 570
+  orig: 570, 570
+  offset: 0, 0
+  index: -1
+PolicyIcons/Ecotourism
+  rotate: false
+  xy: 4, 4
+  size: 602, 602
+  orig: 602, 602
+  offset: 0, 0
+  index: -1
+PolicyIcons/Energy Transition
+  rotate: false
+  xy: 1212, 1236
+  size: 578, 578
+  orig: 578, 578
+  offset: 0, 0
+  index: -1
+PolicyIcons/Imperialism
+  rotate: false
+  xy: 614, 34
+  size: 572, 572
+  orig: 572, 572
+  offset: 0, 0
+  index: -1
+PolicyIcons/Permaculture
+  rotate: false
+  xy: 1212, 656
+  size: 572, 572
+  orig: 572, 572
+  offset: 0, 0
+  index: -1
+PolicyIcons/Sustainable Innovation
+  rotate: false
+  xy: 4, 614
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 PolicyIcons/Aerospace Engineering
   rotate: false
-  xy: 4, 390
+  xy: 938, 942
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Artistic Genius
   rotate: false
-  xy: 1030, 392
+  xy: 450, 392
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Capitalism
   rotate: false
-  xy: 1712, 690
+  xy: 834, 558
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Colonialism
   rotate: false
-  xy: 1992, 970
+  xy: 938, 884
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Consulates
   rotate: false
-  xy: 4, 332
+  xy: 450, 334
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Cultural Centers
   rotate: false
-  xy: 62, 390
+  xy: 834, 500
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Cultural Exchange
   rotate: false
-  xy: 1030, 334
+  xy: 938, 826
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Diplomatic Marriage
   rotate: false
-  xy: 1162, 478
+  xy: 4, 450
   size: 542, 542
   orig: 542, 542
   offset: 0, 0
   index: -1
-PolicyIcons/Divine Rule
-  rotate: false
-  xy: 584, 450
-  size: 570, 570
-  orig: 570, 570
-  offset: 0, 0
-  index: -1
 PolicyIcons/Entrepreneurship
   rotate: false
-  xy: 1088, 392
+  xy: 450, 276
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Feudalism
   rotate: false
-  xy: 584, 4
+  xy: 4, 4
   size: 438, 438
   orig: 438, 438
   offset: 0, 0
   index: -1
+PolicyIcons/Forest Management
+  rotate: false
+  xy: 554, 616
+  size: 376, 376
+  orig: 376, 376
+  offset: 0, 0
+  index: -1
 PolicyIcons/Free Healthcare
   rotate: false
-  xy: 1712, 632
+  xy: 834, 442
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Imperialism
-  rotate: false
-  xy: 4, 448
-  size: 572, 572
-  orig: 572, 572
-  offset: 0, 0
-  index: -1
 PolicyIcons/Knightly Order
   rotate: false
-  xy: 1712, 748
+  xy: 554, 336
   size: 272, 272
   orig: 272, 272
   offset: 0, 0
   index: -1
 PolicyIcons/Labour Unions
   rotate: false
-  xy: 4, 274
+  xy: 834, 384
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Maritime Infrastructure
   rotate: false
-  xy: 62, 332
+  xy: 938, 710
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Mercenary Army
   rotate: false
-  xy: 120, 390
+  xy: 450, 160
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Military-Industrial Complex
   rotate: false
-  xy: 1030, 276
+  xy: 938, 652
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Mobilization
   rotate: false
-  xy: 1088, 334
+  xy: 450, 102
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Monumentality
   rotate: false
-  xy: 1712, 574
+  xy: 450, 44
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/New Deal
   rotate: false
-  xy: 1770, 632
+  xy: 834, 326
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Patriotism
   rotate: false
-  xy: 1828, 690
+  xy: 892, 558
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Proletarian Internationalism
   rotate: false
-  xy: 1992, 854
+  xy: 892, 500
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Resettlement
   rotate: false
-  xy: 4, 216
+  xy: 892, 442
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Tourism Destination
   rotate: false
-  xy: 62, 274
+  xy: 892, 384
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Volunteer Army
   rotate: false
-  xy: 120, 332
+  xy: 892, 326
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Great Admiral
   rotate: false
-  xy: 1770, 690
+  xy: 938, 768
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Navigation School
   rotate: false
-  xy: 1770, 690
+  xy: 938, 768
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Ignore Zone of Control
   rotate: false
-  xy: 1992, 912
+  xy: 450, 218
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Lightning Warfare
   rotate: false
-  xy: 1992, 912
+  xy: 450, 218
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
