@@ -396,9 +396,10 @@
                 "column": 5
             },
             {
-                "name": "Cultural Exchange",
+                "name": "Architect Schools",
                 "uniques": [
-                    "When declaring friendship, both parties gain a [20]% boost to great person generation",
+					"[+10]% Production when constructing [All] buildings [in all cities]",
+					"[+10]% Production when constructing [All] wonders [in all cities]"
                 ],
                 "requires": ["Cultural Centers"],
                 "row": 2,
@@ -407,10 +408,7 @@
             {
                 "name": "Tourism Destination",
                 "uniques": [
-                    "[100]% of excess happiness converted to [Science]",
-                    "[100]% of excess happiness converted to [Culture]",
-                    "[100]% of excess happiness converted to [Gold]",
-                    "[100]% of excess happiness converted to [Faith]",
+                    "[+1 Gold] from all [culture] buildings"
                 ],
                 "requires": ["Cultural Centers", "Monumentality"],
                 "row": 2,
@@ -421,7 +419,7 @@
                 "uniques": [
                     "Free [Great Artist] appears",
                 ],
-                "requires": ["Cultural Exchange"],
+                "requires": ["Architect Schools"],
                 "row": 3,
                 "column": 2
             },
@@ -844,4 +842,152 @@
             }
         ]
     },
+{
+        "name": "Cooperatiom",
+        "era": "Modern era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 10,
+            "Diplomatic": 20,
+            "Domination": 0,
+            "Scientific": 10
+        },
+        "uniques": [
+
+        ],
+        "policies": [
+            {
+                "name": "Research Partnerships",
+                "uniques": [
+					"Science gained from research agreements [+50]%"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Military Alliance",
+                "uniques": [
+					"Militaristic City-States grant units [2] times as fast when you are at war with a common nation"
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Cultural Exchange",
+                "uniques": [
+                    "When declaring friendship, both parties gain a [20]% boost to great person generation",
+                ],
+                "requires": ["Research Partnerships"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Intelligence Union",
+                "requires": ["Research Partnerships"],
+                "uniques": [
+                	"Gain an extra spy",
+					"[-50]% enemy spy effectiveness [in all cities]"
+                ],
+                "row": 2,
+                "column": 5
+            },
+            {
+                "name": "Belle Époque",
+                "uniques": [
+					"[100]% of excess happiness converted to [Science]",
+                    "[100]% of excess happiness converted to [Culture]",
+                    "[100]% of excess happiness converted to [Gold]",
+                    "[100]% of excess happiness converted to [Faith]",
+                ],
+                "requires": ["Military Alliance"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Cooperation Complete",
+                "uniques": [
+					"[+1 Production] from every [Engineer]",
+					"[+1 Science] from every [Scientist]",
+					"[+1 Gold] from every [Merchant]",
+					"[+1 Culture] from every [Artist]"
+				]
+            }
+                ]
+	},
+	
+	{
+        "name": "Conservation",
+        "era": "Modern era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 10,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 10
+        },
+        "uniques": [
+                    "[+2 Science] from every [Forest]",
+                    "[+2 Culture] from every [Jungle]",
+                    "[+2 Production] from every [Marsh]",
+        ],
+        "policies": [
+            {
+                "name": "Sustainable Innovation",
+                "uniques": [
+                    "[Great Scientist] is earned [50]% faster"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Forest Management",
+                "uniques": [
+                    "[+1 Production] from every [Forest]",
+                    "[+1 Production] from every [Jungle]",
+                    "[+1 Production] from every [Marsh]",
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Ecotourism",
+                "uniques": [
+                    "[+100]% Yield from every [Natural Wonder]",
+                    "[+2 Gold] from every [Atoll]",
+                    "[+2 Gold] from every [Oasis]",
+                    "[+2 Gold] from every [Lakes]",
+                ],
+                "requires": ["Forest Management"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Permaculture",
+                "requires": ["Forest Management"],
+                "uniques": [
+                    "[+1 Food] from every [Forest]",
+                    "[+1 Food] from every [Jungle]",
+                    "[+1 Food] from every [Marsh]",
+                ],
+                "row": 2,
+                "column": 5
+            },
+            {
+                "name": "Energy Transition",
+                "uniques": [
+					"[+100]% Production when constructing [Windmill] buildings [in all cities]",
+					"[+100]% Production when constructing [Hydro Plant] buildings [in all cities]",
+					"[+100]% Production when constructing [Solar Plant] buildings [in all cities]",
+					"[+100]% Production when constructing [Recycling Center] buildings [in all cities]",
+                ],
+                "requires": ["Sustainable Innovation"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Conservation Complete",
+                "uniques": ["Free Great Person"]
+            }
+                ]
+	},
 ]
